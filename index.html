@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Padel Off</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;800&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --court:#123A44;
+    --chalk:#F6F3EA;
+    --ball:#CFE023;
+    --coral:#E24B32;
+    --ink:#12201F;
+    --muted:#5D6E6C;
+    --line:#D8D3C4;
+    --card:#FFFFFF;
+    --ok:#2F8F5B;
+    --ok-bg:#E4F3EA;
+    --warn:#B23B2C;
+    --warn-bg:#FBE7E2;
+    --radius:14px;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:'Manrope',sans-serif;background:var(--chalk);color:var(--ink);}
+  .app{max-width:1180px;margin:0 auto;padding:0 20px 60px;}
+
+  .switcher-bar{background:var(--court);padding:14px 20px;}
+  .switcher{max-width:1180px;margin:0 auto;display:flex;align-items:center;gap:10px;}
+  .ball-icon{width:22px;height:22px;border-radius:50%;background:var(--ball);position:relative;flex:none;}
+  .ball-icon::after{content:"";position:absolute;inset:3px;border:1.5px solid var(--court);border-radius:50%;clip-path:polygon(0 40%,100% 40%,100% 60%,0 60%);}
+  .brand-name{font-family:'Big Shoulders Display',sans-serif;font-weight:800;font-size:22px;color:var(--chalk);text-transform:uppercase;letter-spacing:0.03em;}
+  .brand-sub{font-size:11px;color:#AEC7C9;margin-top:-2px;}
+
+  .hero{
+    background:var(--court);
+    background-image:
+      repeating-linear-gradient(90deg, transparent 0 78px, rgba(255,255,255,0.04) 78px 79px),
+      repeating-linear-gradient(0deg, transparent 0 78px, rgba(255,255,255,0.04) 78px 79px);
+    color:var(--chalk);padding:38px 20px 46px;margin:0 -20px 32px;
+  }
+  .hero-inner{max-width:1180px;margin:0 auto;}
+  .hero-eyebrow{display:inline-flex;align-items:center;gap:6px;background:var(--coral);color:#FCE3DB;font-size:12px;font-weight:700;padding:5px 12px;border-radius:999px;margin-bottom:14px;}
+  .hero h1{font-family:'Big Shoulders Display';font-weight:800;font-size:44px;line-height:1;margin:0 0 10px;text-transform:uppercase;}
+  .hero h1 span{color:var(--ball);}
+  .hero p{color:#B9D2D0;font-size:15px;max-width:520px;margin:0;}
+
+  .controls{display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap;margin-bottom:26px;}
+  .cat-row{display:flex;gap:10px;flex-wrap:wrap;}
+  .cat-pill{border:1.5px solid var(--line);background:var(--card);padding:9px 18px;border-radius:999px;font-weight:600;font-size:13.5px;cursor:pointer;color:var(--muted);}
+  .cat-pill.active{background:var(--court);border-color:var(--court);color:var(--chalk);}
+  .search-box{
+    border:1.5px solid var(--line);background:var(--card);border-radius:999px;
+    padding:9px 16px;font-size:13.5px;font-family:'Manrope';min-width:220px;color:var(--ink);
+  }
+  .search-box:focus{outline:none;border-color:var(--court);}
+
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:18px;}
+  .p-card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:16px;position:relative;display:flex;flex-direction:column;gap:10px;}
+  .p-thumb{height:150px;border-radius:10px;background:var(--chalk);display:flex;align-items:center;justify-content:center;overflow:hidden;position:relative;}
+  .p-thumb img{width:100%;height:100%;object-fit:contain;}
+  .p-thumb .fallback{font-size:11px;color:var(--muted);font-weight:600;text-align:center;padding:0 10px;}
+  .badge-off{position:absolute;top:10px;left:10px;background:var(--coral);color:#FCE3DB;font-weight:700;font-size:11.5px;padding:4px 9px;border-radius:999px;z-index:1;}
+  .stock-tag{position:absolute;top:10px;right:10px;font-size:10.5px;font-weight:700;padding:3px 8px;border-radius:999px;z-index:1;}
+  .stock-in{background:var(--ok-bg);color:var(--ok);}
+  .stock-out{background:var(--warn-bg);color:var(--warn);}
+  .p-cat{font-size:11px;color:var(--muted);font-weight:700;text-transform:uppercase;letter-spacing:0.04em;}
+  .p-name{font-size:14px;font-weight:600;line-height:1.3;min-height:36px;}
+  .p-price-row{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap;}
+  .p-price{font-size:19px;font-weight:800;font-family:'Big Shoulders Display';color:var(--court);}
+  .p-price-old{font-size:12.5px;color:var(--muted);text-decoration:line-through;}
+  .p-buy{margin-top:2px;border:none;background:var(--court);color:var(--chalk);padding:9px;border-radius:8px;font-weight:700;font-size:13px;cursor:pointer;text-align:center;text-decoration:none;display:block;}
+  .p-buy:hover{opacity:0.92;}
+  .p-buy.disabled{background:#D8D3C4;color:#8B887C;pointer-events:none;}
+
+  .state-msg{padding:60px 20px;text-align:center;color:var(--muted);font-size:14px;}
+  .state-msg strong{display:block;font-family:'Big Shoulders Display';font-size:22px;color:var(--ink);margin-bottom:8px;text-transform:uppercase;}
+  .result-count{font-size:12.5px;color:var(--muted);margin-bottom:14px;}
+
+  @media (max-width:640px){
+    .hero h1{font-size:32px;}
+    .controls{flex-direction:column;align-items:stretch;}
+    .search-box{width:100%;}
+  }
+</style>
+</head>
+<body>
+
+<div class="switcher-bar">
+  <div class="switcher">
+    <div class="ball-icon"></div>
+    <div>
+      <div class="brand-name">Padel Off</div>
+      <div class="brand-sub">−20% vs. Meta Padel</div>
+    </div>
+  </div>
+</div>
+
+<div class="app">
+  <div class="hero">
+    <div class="hero-inner">
+      <span class="hero-eyebrow">Descuento fijo del 20%</span>
+      <h1>Mismo producto.<br><span>20% menos.</span></h1>
+      <p>Paletas Importadas, Paletas Nacionales y Bolsos, con un 20% de descuento sobre el precio de venta de Meta Padel.</p>
+    </div>
+  </div>
+
+  <div class="controls">
+    <div class="cat-row" id="cat-row">
+      <button class="cat-pill active" data-cat="todas">Todas</button>
+      <button class="cat-pill" data-cat="importadas">Paletas Importadas</button>
+      <button class="cat-pill" data-cat="nacionales">Paletas Nacionales</button>
+      <button class="cat-pill" data-cat="bolsos">Bolsos</button>
+    </div>
+    <input type="text" class="search-box" id="search" placeholder="Buscar producto o marca...">
+  </div>
+
+  <div class="result-count" id="result-count"></div>
+  <div class="grid" id="product-grid"></div>
+  <div class="state-msg" id="state-msg" style="display:none;"></div>
+</div>
+
+<script>
+let TODOS = [];
+let categoriaActiva = "todas";
+
+function money(n){
+  return "$" + Math.round(n).toLocaleString("es-AR");
+}
+
+function showState(title, body){
+  document.getElementById("product-grid").style.display = "none";
+  document.getElementById("result-count").style.display = "none";
+  const el = document.getElementById("state-msg");
+  el.style.display = "block";
+  el.innerHTML = `<strong>${title}</strong>${body}`;
+}
+
+function render(){
+  const grid = document.getElementById("product-grid");
+  const term = document.getElementById("search").value.trim().toLowerCase();
+
+  let items = TODOS.filter(p => categoriaActiva === "todas" || p.categoria === categoriaActiva);
+  if (term){
+    items = items.filter(p => p.nombre.toLowerCase().includes(term));
+  }
+
+  document.getElementById("result-count").textContent = `${items.length} producto${items.length === 1 ? "" : "s"}`;
+
+  if (items.length === 0){
+    grid.innerHTML = "";
+    showState("Sin resultados", "Probá con otra categoría o término de búsqueda.");
+    return;
+  }
+
+  document.getElementById("product-grid").style.display = "grid";
+  document.getElementById("result-count").style.display = "block";
+  document.getElementById("state-msg").style.display = "none";
+
+  grid.innerHTML = "";
+  items.forEach(p => {
+    const offPct = p.precio_origen > 0
+      ? Math.round((1 - p.precio_final / p.precio_origen) * 100)
+      : 20;
+
+    const card = document.createElement("div");
+    card.className = "p-card";
+    card.innerHTML = `
+      <div class="p-thumb">
+        <span class="badge-off">−${offPct}%</span>
+        <span class="stock-tag ${p.en_stock ? 'stock-in' : 'stock-out'}">${p.en_stock ? 'En stock' : 'Sin stock'}</span>
+        ${p.imagen
+          ? `<img src="${p.imagen}" alt="${p.nombre}" loading="lazy" onerror="this.parentElement.innerHTML='<span class=\\'fallback\\'>${p.nombre}</span>'">`
+          : `<span class="fallback">${p.nombre}</span>`}
+      </div>
+      <div class="p-cat">${categoriaLabel(p.categoria)}</div>
+      <div class="p-name">${p.nombre}</div>
+      <div class="p-price-row">
+        <span class="p-price">${money(p.precio_final)}</span>
+        <span class="p-price-old">${money(p.precio_origen)}</span>
+      </div>
+      <a class="p-buy ${p.en_stock ? '' : 'disabled'}" href="${p.url}" target="_blank" rel="noopener">
+        ${p.en_stock ? 'Ver producto' : 'Sin stock'}
+      </a>
+    `;
+    grid.appendChild(card);
+  });
+}
+
+function categoriaLabel(cat){
+  return {importadas: "Paletas Importadas", nacionales: "Paletas Nacionales", bolsos: "Bolsos"}[cat] || cat;
+}
+
+document.getElementById("cat-row").addEventListener("click", (e) => {
+  const btn = e.target.closest(".cat-pill");
+  if (!btn) return;
+  document.querySelectorAll(".cat-pill").forEach(b => b.classList.remove("active"));
+  btn.classList.add("active");
+  categoriaActiva = btn.dataset.cat;
+  render();
+});
+
+document.getElementById("search").addEventListener("input", render);
+
+fetch("./catalogo.json")
+  .then(r => {
+    if (!r.ok) throw new Error("no encontrado");
+    return r.json();
+  })
+  .then(data => {
+    TODOS = data;
+    if (TODOS.length === 0){
+      showState("Todavía no hay productos", "Corré <code>python scraper.py</code> para generar el catálogo.");
+      return;
+    }
+    render();
+  })
+  .catch(() => {
+    showState(
+      "No encuentro catalogo.json",
+      "Asegurate de que <code>catalogo.json</code> esté en la misma carpeta que este archivo, y de estar abriendo el sitio con un servidor local (ver instrucciones)."
+    );
+  });
+</script>
+
+</body>
+</html>
