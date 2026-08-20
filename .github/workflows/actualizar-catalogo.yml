@@ -1,1 +1,33 @@
 
+name: Actualizar catálogo
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # corre todos los días, a cada hora en punto
+  workflow_dispatch:        # permite tocar "Run workflow" a mano desde GitHub
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Correr el scraper
+        run: python scraper.py
+
+      - name: Guardar catalogo.json si cambió
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add catalogo.json
+          git diff --staged --quiet || git commit -m "Actualizar catálogo"
+          git push
