@@ -162,21 +162,21 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Bullpadel Neuron 02 Edge 26",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-neuron-02-edge-26/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 630000.0,
-    "precio_final": 504000.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paleta Babolat Technical Veron 2.5",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-babolat-technical-veron-2-5/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 405000.0,
     "precio_final": 324000.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paleta Bullpadel Neuron 02 Edge 26",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-neuron-02-edge-26/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 630000.0,
+    "precio_final": 504000.0,
     "en_stock": true
   },
   {
@@ -846,6 +846,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Bullpadel Vertex 04 Comfort",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-vertex-04-comfort-1of4u/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 395000.0,
+    "precio_final": 316000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Head Coello Vibe 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-head-coello-vibe-26-16pcw/",
@@ -858,7 +867,7 @@
     "nombre": "Paleta Babolat Stima Energy",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-babolat-stima-energy-1kljm/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletababolatstimaenergy_1-21570b68f220a0ef0017865491875937-480-0.webp",
     "precio_origen": 440000.0,
     "precio_final": 352000.0,
     "en_stock": true
@@ -876,7 +885,7 @@
     "nombre": "Paleta Hirostar Aurora 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-hirostar-aurora-26-xozwn/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletahirostaraurora26_1-99dfd156019eecae3b17798027400721-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 404000.0,
     "precio_final": 323200.0,
     "en_stock": true
@@ -966,7 +975,7 @@
     "nombre": "Pack Bullpadel Onyx Comfort Man V1",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/pack-bullpadel-onyx-comfort-man-v1/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/packbullpadelonyxcomfortmanv1_1-459cf85c0f70b5dc0117833783681030-480-0.webp",
     "precio_origen": 451500.0,
     "precio_final": 361200.0,
     "en_stock": true
@@ -984,7 +993,7 @@
     "nombre": "Paleta Bullpadel Icon Cloud 25",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-icon-cloud-25/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadeliconcloud25_1-bd31e4e1f1d2d9243717857708142848-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 371100.0,
     "precio_final": 296880.0,
     "en_stock": true
@@ -1074,7 +1083,7 @@
     "nombre": "Paleta Head Bolt 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-head-bolt-26-1rsxv/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaheadbolt26_1_rojo-ed2b713069b7c6b8cd17816117276558-480-0.webp",
     "precio_origen": 249000.0,
     "precio_final": 199200.0,
     "en_stock": true
@@ -1086,15 +1095,6 @@
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelvertex05lightpp26_3-7417e82344a1acf66d17812813170766-480-0.webp",
     "precio_origen": 680000.0,
     "precio_final": 544000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Bullpadel Vertex 04 Comfort",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-vertex-04-comfort-1of4u/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelvertex04mpa_1-8f6d00f013589e691817806024723479-480-0.webp",
-    "precio_origen": 395000.0,
-    "precio_final": 316000.0,
     "en_stock": true
   },
   {
