@@ -207,10 +207,19 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Bullpadel Onyx Control Azul 25",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-onyx-control-azul-25/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 199000.0,
+    "precio_final": 159200.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Wilson Defy V1 25",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-wilson-defy-v1-25/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletawilsondefyv1ngo2fdorado_7-68f1abf1f783ac407217863894911366-480-0.webp",
     "precio_origen": 454999.0,
     "precio_final": 363999.2,
     "en_stock": true
@@ -228,7 +237,7 @@
     "nombre": "Paleta Babolat Viper Juan Lebrón 3.0",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-babolat-viper-juan-lebron-3-0-uzmi1/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletababolatviperjuanlebrc3b3n3-0_1-cac2a39f12c0cc25ea17798038183938-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 670000.0,
     "precio_final": 536000.0,
     "en_stock": true
@@ -240,15 +249,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 513000.0,
     "precio_final": 410400.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Bullpadel Onyx Control Azul 25",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-onyx-control-azul-25/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 199000.0,
-    "precio_final": 159200.0,
     "en_stock": true
   },
   {
