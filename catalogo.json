@@ -99,10 +99,19 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Bullpadel Vertex 05 Comfort 26",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-vertex-05-comfort-26-yinqx/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 460000.0,
+    "precio_final": 368000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Bullpadel Onyx Power 2.0 Naranja",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-onyx-power-2-0-naranja/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "//acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelonyxpower2-0nja_1-0af12f977c8c987f5717807557790930-480-0.webp",
     "precio_origen": 215000.0,
     "precio_final": 172000.0,
     "en_stock": true
@@ -120,18 +129,9 @@
     "nombre": "Paleta Head Speed Pro 23",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-head-speed-pro-23/",
-    "imagen": "//acdn-us.mitiendanube.com/stores/003/106/548/products/paletaheadspeedpro23_2-aeacb4a84cd36c493c17798002641714-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 395000.0,
     "precio_final": 316000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Bullpadel Vertex 05 Comfort 26",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-vertex-05-comfort-26-yinqx/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 460000.0,
-    "precio_final": 368000.0,
     "en_stock": true
   },
   {
