@@ -145,7 +145,7 @@ function render(){
   const grid = document.getElementById("product-grid");
   const term = document.getElementById("search").value.trim().toLowerCase();
 
-  let items = TODOS.filter(p => categoriaActiva === "todas" || p.categoria === categoriaActiva);
+  let items = TODOS.filter(p => p.en_stock && (categoriaActiva === "todas" || p.categoria === categoriaActiva));
   if (term){
     items = items.filter(p => p.nombre.toLowerCase().includes(term));
   }
@@ -170,9 +170,8 @@ function render(){
     card.className = "p-card";
     card.innerHTML = `
       <div class="p-thumb">
-        <span class="stock-tag ${p.en_stock ? 'stock-in' : 'stock-out'}">${p.en_stock ? 'En stock' : 'Sin stock'}</span>
         ${p.imagen
-          ? `<img src="${p.imagen}" alt="${p.nombre}" loading="lazy" onerror="this.parentElement.innerHTML='<span class=\\'fallback\\'>${p.nombre}</span>'">`
+          ? `<img src="${p.imagen}" alt="${p.nombre}" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.innerHTML='<span class=\\'fallback\\'>${p.nombre}</span>'">`
           : `<span class="fallback">${p.nombre}</span>`}
       </div>
       <div class="p-cat">${categoriaLabel(p.categoria)}</div>

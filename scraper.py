@@ -58,6 +58,17 @@ class Producto:
     en_stock: bool
 
 
+def normalizar_imagen(url: str) -> str:
+    """Convierte URLs relativas o protocol-relative en absolutas."""
+    if not url:
+        return ""
+    if url.startswith("//"):
+        return f"https:{url}"
+    if url.startswith("/"):
+        return f"https://www.metapadel.com.ar{url}"
+    return url
+
+
 def limpiar_precio(texto: str) -> float:
     """Convierte '$525.000,00' -> 525000.0"""
     if not texto:
@@ -114,7 +125,7 @@ def extraer_via_jsonld(soup: BeautifulSoup, categoria: str):
                     nombre=nombre,
                     categoria=categoria,
                     url=url or "",
-                    imagen=imagen or "",
+                    imagen=normalizar_imagen(imagen),
                     precio_origen=precio,
                     precio_final=round(precio * (1 - DESCUENTO), 2),
                     en_stock=en_stock,
@@ -176,7 +187,7 @@ def extraer_via_html(soup: BeautifulSoup, categoria: str):
                 nombre=nombre,
                 categoria=categoria,
                 url=url if url.startswith("http") else f"https://www.metapadel.com.ar{url}",
-                imagen=imagen,
+                imagen=normalizar_imagen(imagen),
                 precio_origen=precio_origen,
                 precio_final=round(precio_origen * (1 - DESCUENTO), 2),
                 en_stock=en_stock,
