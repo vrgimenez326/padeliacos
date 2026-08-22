@@ -171,21 +171,21 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Bullpadel Neuron 02 Edge 26",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-neuron-02-edge-26/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 630000.0,
-    "precio_final": 504000.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paleta Head Radical Pro 24",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-head-radical-pro-24/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 395000.0,
     "precio_final": 316000.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paleta Bullpadel Neuron 02 Edge 26",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-neuron-02-edge-26/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 630000.0,
+    "precio_final": 504000.0,
     "en_stock": true
   },
   {
@@ -333,21 +333,21 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Siux Fenix Pro 26",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-siux-fenix-pro-26-tho76/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletasiuxfenixpro2026_5_negro-8ed9555a93e18d74d217799010109163-480-0.webp",
-    "precio_origen": 660000.0,
-    "precio_final": 528000.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paleta Head Vibe 25",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-head-vibe-25/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaheadvibe25_8_azul2fnja-91e561516da2634d9f17801525510778-480-0.webp",
     "precio_origen": 249000.0,
     "precio_final": 199200.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paleta Siux Fenix Pro 26",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-siux-fenix-pro-26-tho76/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 660000.0,
+    "precio_final": 528000.0,
     "en_stock": true
   },
   {
