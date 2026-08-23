@@ -504,6 +504,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Bullpadel Neuron 02 26",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-neuron-02-26/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 630000.0,
+    "precio_final": 504000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Wilson Bela Pro V3",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-wilson-bela-pro-v3/",
@@ -534,7 +543,7 @@
     "nombre": "Paleta Hirostar Redstone 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-hirostar-redstone-26-1moli/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletahirostarredstone26_1-5cd84ef67c49374b5517803431626750-480-0.webp",
     "precio_origen": 542600.0,
     "precio_final": 434080.0,
     "en_stock": true
@@ -552,18 +561,9 @@
     "nombre": "Pack Bullpadel Vertex 04 Woman 25",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/pack-bullpadel-vertex-04-woman-25-6hl3d/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/combobullpadelvertex04w25_1-f40d89f4cd6181faff17798008356701-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 590000.0,
     "precio_final": 472000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Bullpadel Neuron 02 26",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-neuron-02-26/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 630000.0,
-    "precio_final": 504000.0,
     "en_stock": true
   },
   {
