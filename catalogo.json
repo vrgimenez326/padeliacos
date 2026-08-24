@@ -1089,19 +1089,10 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Head Bolt 26",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-head-bolt-26-1rsxv/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaheadbolt26_1_rojo-ed2b713069b7c6b8cd17816117276558-480-0.webp",
-    "precio_origen": 249000.0,
-    "precio_final": 199200.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paleta Bullpadel Vertex 05 Light PP26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-vertex-05-light-pp26-632eo/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelvertex05lightpp26_3-7417e82344a1acf66d17812813170766-480-0.webp",
     "precio_origen": 680000.0,
     "precio_final": 544000.0,
     "en_stock": true
@@ -1191,7 +1182,7 @@
     "nombre": "Paleta Tecnifibre Wall Master 370",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-tecnifibre-wall-master-370/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletatecnifibrewallmaster370_1-58e242bcfb16f3231d17823196651780-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 282200.0,
     "precio_final": 225760.0,
     "en_stock": true
@@ -1209,7 +1200,7 @@
     "nombre": "Paleta Hirostar Horizon",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-hirostar-horizon/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletahirostarhorizon_1-bf60b79ab0fd78057917739622049630-480-0.webp",
     "precio_origen": 464700.0,
     "precio_final": 371760.0,
     "en_stock": true
@@ -1221,6 +1212,15 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 255000.0,
     "precio_final": 204000.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paleta Sane Fussion Omega",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-sane-fussion-omega/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 293300.0,
+    "precio_final": 234640.0,
     "en_stock": true
   },
   {
@@ -2313,6 +2313,15 @@
     "en_stock": false
   },
   {
+    "nombre": "Paleta Head Bolt 26",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-head-bolt-26-1rsxv/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 249000.0,
+    "precio_final": 199200.0,
+    "en_stock": false
+  },
+  {
     "nombre": "Paleta Bullpadel Xplo PP26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-xplo-pp26-l1zyn/",
@@ -2370,7 +2379,7 @@
     "nombre": "Paleta Pro Go Aeris Drive 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-pro-go-aeris-drive-26-20bqi/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaprogoaerisdrive26_1-4433ed9b74de70f27517798024355965-480-0.webp",
     "precio_origen": 290000.0,
     "precio_final": 232000.0,
     "en_stock": false
@@ -2382,15 +2391,6 @@
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletawilsonbelaprov2-5_1-23669c8cd360cd144a17813028005333-480-0.webp",
     "precio_origen": 575000.0,
     "precio_final": 460000.0,
-    "en_stock": false
-  },
-  {
-    "nombre": "Paleta Sane Fussion Omega",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-sane-fussion-omega/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletasanefussionomega_1-1852dd5cbc7dd6556f17800944513718-480-0.webp",
-    "precio_origen": 293300.0,
-    "precio_final": 234640.0,
     "en_stock": false
   },
   {
