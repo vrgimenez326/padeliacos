@@ -2709,21 +2709,21 @@
     "en_stock": false
   },
   {
-    "nombre": "Paletero Bullpadel Tour Marino",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-tour-marino/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadeltourazulmno_1-f433b10541b5d5973b17873418568235-480-0.webp",
-    "precio_origen": 125000.0,
-    "precio_final": 100000.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Funda Varlion Basic",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/funda-varlion-basic/",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/128fbdc75f7459393011699301896481210241024-b648e97e2fcb5c43ad17798924595626-480-0.webp",
     "precio_origen": 15900.0,
     "precio_final": 12720.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paletero Bullpadel Tour Marino",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-tour-marino/",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadeltourazulmno_1-f433b10541b5d5973b17873418568235-480-0.webp",
+    "precio_origen": 125000.0,
+    "precio_final": 100000.0,
     "en_stock": true
   },
   {
