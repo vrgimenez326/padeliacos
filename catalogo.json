@@ -867,7 +867,7 @@
     "nombre": "Paleta Hirostar Andromeda 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-hirostar-andromeda-26-19pbz/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletahirostarandromeda26_1-4597d6e032bdd9af5a17808542165008-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 404000.0,
     "precio_final": 323200.0,
     "en_stock": true
@@ -876,7 +876,7 @@
     "nombre": "Paleta Hirostar Aurora 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-hirostar-aurora-26-xozwn/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletahirostaraurora26_1-99dfd156019eecae3b17798027400721-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 404000.0,
     "precio_final": 323200.0,
     "en_stock": true
@@ -888,15 +888,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 570000.0,
     "precio_final": 456000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Varlion Bourne Prisma Carbon Soft 25",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-varlion-bourne-prisma-carbon-soft-25-qyom2/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 430000.0,
-    "precio_final": 344000.0,
     "en_stock": true
   },
   {
@@ -942,15 +933,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 646000.0,
     "precio_final": 516800.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Babolat Counter Origin",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-babolat-counter-origin-gzvd5/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 220000.0,
-    "precio_final": 176000.0,
     "en_stock": true
   },
   {
