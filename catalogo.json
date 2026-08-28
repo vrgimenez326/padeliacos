@@ -153,30 +153,21 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Head Radical Pro 24",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-head-radical-pro-24/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 395000.0,
-    "precio_final": 316000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Babolat Air Origin",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-babolat-air-origin-g9uoo/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 250000.0,
-    "precio_final": 200000.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paleta Babolat Technical Veron 2.5",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-babolat-technical-veron-2-5/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 405000.0,
     "precio_final": 324000.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paleta Head Radical Pro 24",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-head-radical-pro-24/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 395000.0,
+    "precio_final": 316000.0,
     "en_stock": true
   },
   {
@@ -189,6 +180,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Babolat Air Origin",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-babolat-air-origin-g9uoo/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 250000.0,
+    "precio_final": 200000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Nox Future Attack 15k 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-nox-future-attack-15k-26-1irkw/",
@@ -198,21 +198,21 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Babolat Viper Juan Lebrón 3.0",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-babolat-viper-juan-lebron-3-0-uzmi1/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 670000.0,
-    "precio_final": 536000.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paleta Babolat Counter Viper 2.5",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-babolat-counter-viper-2-5/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 529000.0,
     "precio_final": 423200.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paleta Wilson Defy V1 25",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-wilson-defy-v1-25/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 454999.0,
+    "precio_final": 363999.2,
     "en_stock": true
   },
   {
@@ -231,6 +231,15 @@
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelvertex04wpa_1-14a282b21d6897ce9c17798817168786-480-0.webp",
     "precio_origen": 395000.0,
     "precio_final": 316000.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paleta Babolat Viper Juan Lebrón 3.0",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-babolat-viper-juan-lebron-3-0-uzmi1/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 670000.0,
+    "precio_final": 536000.0,
     "en_stock": true
   },
   {
@@ -711,6 +720,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Babolat Counter Origin",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-babolat-counter-origin-gzvd5/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 220000.0,
+    "precio_final": 176000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Adidas Metalbone CTRL 3.5",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-adidas-metalbone-ctrl-3-5-iwhh7/",
@@ -741,7 +759,7 @@
     "nombre": "Paleta Bullpadel Vertex 04 TF 24",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-vertex-04-tf-24/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelvertex04tf24_1-062f4c42935ccdfe9e17791992461353-480-0.webp",
     "precio_origen": 699000.0,
     "precio_final": 559200.0,
     "en_stock": true
@@ -759,7 +777,7 @@
     "nombre": "Paleta Bullpadel Neuron 25",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-neuron-25/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelneuron25_1-38acfbfbf09e1c702e17856375973809-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 699999.0,
     "precio_final": 559999.2,
     "en_stock": true
@@ -849,7 +867,7 @@
     "nombre": "Paleta Varlion Bourne Prisma Carbon Soft 25",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-varlion-bourne-prisma-carbon-soft-25-qyom2/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletavarlionbourneprismacarbonsoft25_1-9cafba19eb243e35be17805892614975-480-0.webp",
     "precio_origen": 430000.0,
     "precio_final": 344000.0,
     "en_stock": true
@@ -867,7 +885,7 @@
     "nombre": "Paleta Babolat Counter Veron 2.6",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-babolat-counter-veron-2-6-1myh2/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletababolatcounterveron2-6_1-078db7fe163084277017810960557036-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 440000.0,
     "precio_final": 352000.0,
     "en_stock": true
@@ -897,15 +915,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 646000.0,
     "precio_final": 516800.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Babolat Counter Origin",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-babolat-counter-origin-gzvd5/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 220000.0,
-    "precio_final": 176000.0,
     "en_stock": true
   },
   {
