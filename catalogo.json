@@ -2280,7 +2280,7 @@
     "nombre": "Paleta Bullpadel Xplo PP26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-xplo-pp26-l1zyn/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelxplopp26_2-4ad4dff6d02c4502cd17813630950871-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 899000.0,
     "precio_final": 719200.0,
     "en_stock": false
@@ -2364,15 +2364,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 293300.0,
     "precio_final": 234640.0,
-    "en_stock": false
-  },
-  {
-    "nombre": "Paleta Bullpadel Ionic Light TF 24",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-ionic-light-tf-24/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 650000.0,
-    "precio_final": 520000.0,
     "en_stock": false
   },
   {
@@ -3033,6 +3024,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paletero Pro Go Drive",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-pro-go-drive-18xgi/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 110000.0,
+    "precio_final": 88000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Mochila Hirostar Alien by Tolito Aguirre",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-hirostar-alien-by-tolito-aguirre-15lq2/",
@@ -3108,7 +3108,7 @@
     "nombre": "Paletero Wilson Super Tour Rojo",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-wilson-super-tour-rojo/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsowilsonsupertourrojo_1-7c874c9f2e09d1435717872461178820-480-0.webp",
     "precio_origen": 191000.0,
     "precio_final": 152800.0,
     "en_stock": true
@@ -3126,18 +3126,9 @@
     "nombre": "Bolso Bullpadel Next Bag Naranja",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/bolso-bullpadel-next-bag-naranja/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/1151142db85a7269210d531695134307033110241024-a3fc78228b50031cf617791993961098-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 190000.0,
     "precio_final": 152000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paletero Pro Go Drive",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-pro-go-drive-18xgi/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 110000.0,
-    "precio_final": 88000.0,
     "en_stock": true
   },
   {
