@@ -2280,7 +2280,7 @@
     "nombre": "Paleta Bullpadel Xplo PP26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-xplo-pp26-l1zyn/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelxplopp26_2-4ad4dff6d02c4502cd17813630950871-480-0.webp",
     "precio_origen": 899000.0,
     "precio_final": 719200.0,
     "en_stock": false
@@ -2364,6 +2364,15 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 293300.0,
     "precio_final": 234640.0,
+    "en_stock": false
+  },
+  {
+    "nombre": "Paleta Bullpadel Ionic Light TF 24",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-ionic-light-tf-24/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 650000.0,
+    "precio_final": 520000.0,
     "en_stock": false
   },
   {
