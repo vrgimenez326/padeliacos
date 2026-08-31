@@ -162,6 +162,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Bullpadel Xplo Comfort 26",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-xplo-comfort-26/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 430000.0,
+    "precio_final": 344000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Head Radical Pro 24",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-head-radical-pro-24/",
@@ -177,15 +186,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 285000.0,
     "precio_final": 228000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Bullpadel Xplo Comfort 26",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-xplo-comfort-26/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 430000.0,
-    "precio_final": 344000.0,
     "en_stock": true
   },
   {
@@ -270,21 +270,21 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Siux Spyder Lite 3 Hard 24",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-siux-spyder-lite-3-hard-24/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 438800.0,
-    "precio_final": 351040.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paleta Babolat Veron Juan Lebrón 3.0",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-babolat-veron-juan-lebron-3-0-11kkf/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 425000.0,
     "precio_final": 340000.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paleta Siux Spyder Lite 3 Hard 24",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-siux-spyder-lite-3-hard-24/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 438800.0,
+    "precio_final": 351040.0,
     "en_stock": true
   },
   {
@@ -369,6 +369,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Nox AT10 Genius 12K Xtrem 26",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-nox-at10-genius-12k-xtrem-26-x6w15/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 735000.0,
+    "precio_final": 588000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Adidas Adipower Carbon Light 3.4",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-adidas-adipower-carbon-light-3-4/",
@@ -396,12 +405,12 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Nox AT10 Genius 12K Xtrem 26",
+    "nombre": "Paleta Joma Slam Pro",
     "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-nox-at10-genius-12k-xtrem-26-x6w15/",
+    "url": "https://www.metapadel.com.ar/productos/paleta-joma-slam-pro1/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 735000.0,
-    "precio_final": 588000.0,
+    "precio_origen": 316000.0,
+    "precio_final": 252800.0,
     "en_stock": true
   },
   {
@@ -426,7 +435,7 @@
     "nombre": "Paleta Babolat Technical Viper 3.0",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-babolat-technical-viper-3-0-5r16z/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletababolattechnicalviper3-0_1-54300d8155ba42456c17800709183685-480-0.webp",
     "precio_origen": 650000.0,
     "precio_final": 520000.0,
     "en_stock": true
@@ -444,7 +453,7 @@
     "nombre": "Paleta Nox AT10 Genius Attack 18K 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-nox-at10-genius-attack-18k-26-uwc3e/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletanoxat10geniusattack18k26_1-c0896d6c03870d1c5017809453692104-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 715000.0,
     "precio_final": 572000.0,
     "en_stock": true
@@ -474,15 +483,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 375000.0,
     "precio_final": 300000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Joma Slam Pro",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-joma-slam-pro1/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 316000.0,
-    "precio_final": 252800.0,
     "en_stock": true
   },
   {
