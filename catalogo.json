@@ -2817,6 +2817,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paletero Babolat RH4 Juan Lebron",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-babolat-rh4-juan-lebron/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 250000.0,
+    "precio_final": 200000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Mochila Adidas Multigame 3.5",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-adidas-multigame-3-5-k9d3z/",
@@ -2829,18 +2838,9 @@
     "nombre": "Paletero Bullpadel Vertex Piedra",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-piedra/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadelvertexgrisoscuro_1-61ec23dbb95359786e17811391542091-480-0.webp",
     "precio_origen": 255550.0,
     "precio_final": 204440.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paletero Babolat RH4 Juan Lebron",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-babolat-rh4-juan-lebron/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobabolatrhjuanlebronngo2frjo_1-f23f2e94035336eed917800880996697-480-0.webp",
-    "precio_origen": 250000.0,
-    "precio_final": 200000.0,
     "en_stock": true
   },
   {
@@ -2970,15 +2970,6 @@
     "en_stock": true
   },
   {
-    "nombre": "Paletero Head Team Padel L Negro/Gris",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-head-team-padel-l-negro-gris-6s907/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 177000.0,
-    "precio_final": 141600.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paletero Varlion Summum Violeta",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-violeta/",
@@ -3054,7 +3045,7 @@
     "nombre": "Paletero Bullpadel Hack Petroleo",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-hack-petroleo/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadelhackpetroleo_1-6776f6c742ff30765717810999661103-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 261155.0,
     "precio_final": 208924.0,
     "en_stock": true
@@ -3072,7 +3063,7 @@
     "nombre": "Paletero Pro Go Drive",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-pro-go-drive-18xgi/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoprogodrive_20_negro-04a9e03485b81fd5f817855025576568-480-0.webp",
     "precio_origen": 110000.0,
     "precio_final": 88000.0,
     "en_stock": true
@@ -3162,7 +3153,7 @@
     "nombre": "Paletero Varlion Summum Pro Cobre",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-pro-cobre/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paleterovarlionsummumprocobre_8-14ce1f70d97d42e3d717818158772033-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 170000.0,
     "precio_final": 136000.0,
     "en_stock": true
@@ -3180,7 +3171,7 @@
     "nombre": "Neceser Bullpadel Wonder",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/neceser-bullpadel-wonder-hr8ra/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/neceserbullpadelwonderbpn26023marron_2-f302981340d70ee47a17817928993465-480-0.webp",
     "precio_origen": 49000.0,
     "precio_final": 39200.0,
     "en_stock": true
@@ -3270,7 +3261,7 @@
     "nombre": "Mochila Bullpadel Neuron 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-neuron-26-1ktac/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilabullpadelneuron26_1_negro-4c6a00e64e6508c9ee17858558673919-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 199000.0,
     "precio_final": 159200.0,
     "en_stock": true
@@ -3288,7 +3279,7 @@
     "nombre": "Monedero Adidas Negro 3.5",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/monedero-adidas-negro-3-5-du758/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/monederoadidasnegro3-5_1-627c4b0a04120a8dc117812178303502-480-0.webp",
     "precio_origen": 33250.0,
     "precio_final": 26600.0,
     "en_stock": true
@@ -3378,7 +3369,7 @@
     "nombre": "Paletero Varlion Summum Pro Violeta",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-pro-violeta/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/3cbd2f59f8e3092889f1699047610960610241024-cea839c77a8f4356a217794860338785-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 170000.0,
     "precio_final": 136000.0,
     "en_stock": true
@@ -3396,7 +3387,7 @@
     "nombre": "Neceser Bullpadel Neuron",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/neceser-bullpadel-neuron-g5sgv/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/neceserbullpadelneuronbpn26022ngo_1-6d13eeb205a2aa43d717817928978610-480-0.webp",
     "precio_origen": 49000.0,
     "precio_final": 39200.0,
     "en_stock": true
@@ -3486,7 +3477,7 @@
     "nombre": "Paletero Head Retro Padel 25th",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-head-retro-padel-25th-x28do/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoheadretropadel25th_1-8cd15cafbd91a6197617816150710055-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 295000.0,
     "precio_final": 236000.0,
     "en_stock": true
@@ -3504,7 +3495,7 @@
     "nombre": "Mochila Siux Street",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-siux-street-3nki5/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilasiuxstreet_1_negro-e9a237366366fef5dd17780732546725-480-0.webp",
     "precio_origen": 95000.0,
     "precio_final": 76000.0,
     "en_stock": true
@@ -3594,7 +3585,7 @@
     "nombre": "Paletero Bullpadel Elite 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-elite-26-73ibl/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadelelite26_4_bco-17e13b4cef3ffe773617816261776403-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 220000.0,
     "precio_final": 176000.0,
     "en_stock": true
@@ -3612,7 +3603,7 @@
     "nombre": "Paletero Bullpadel Vertex Woman 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-woman-26-82win/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadelvertexw26_1_clte-8e25285e4faa8008f117791996227141-480-0.webp",
     "precio_origen": 250000.0,
     "precio_final": 200000.0,
     "en_stock": true
@@ -3702,7 +3693,7 @@
     "nombre": "Paletero Hirostar Negro/Azul",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-hirostar-negro-azul/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsohirostarnegro2fazul_1-29020533c0c892a49a17851703586326-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 224000.0,
     "precio_final": 179200.0,
     "en_stock": true
@@ -3720,7 +3711,7 @@
     "nombre": "Riñonera UI ActiveAura Fannypack 2L Verde",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/rinonera-ui-activeaura-fannypack-2l-verde/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/ric3b1onerauiactiveaurafannypack2lvde_1-16fe918ccc12deafcb17739607516401-480-0.webp",
     "precio_origen": 23390.0,
     "precio_final": 18712.0,
     "en_stock": true
@@ -3810,7 +3801,7 @@
     "nombre": "Mochila Sane Vintage Negra",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-sane-vintage-negra/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilasanevintagenegra_1-929474cec8917bf98d17739576254480-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 93900.0,
     "precio_final": 75120.0,
     "en_stock": true
@@ -3828,7 +3819,7 @@
     "nombre": "Paletero Sane Pro Leather Ruby",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-sane-pro-leather-ruby/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsosaneproleatherruby_1-ca6a1f3c738ace730717739575937705-480-0.webp",
     "precio_origen": 181700.0,
     "precio_final": 145360.0,
     "en_stock": true
@@ -3918,7 +3909,7 @@
     "nombre": "Paletero Dropshot NAOS Rojo",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-naos-rojo/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsodropshotnaosrojo_1-30a260a75a28a090bc17851703523510-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 180000.0,
     "precio_final": 144000.0,
     "en_stock": true
@@ -3936,7 +3927,7 @@
     "nombre": "Paletero Bullpadel Tour Marino",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-tour-marino/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadeltourazulmno_1-f433b10541b5d5973b17873418568235-480-0.webp",
     "precio_origen": 125000.0,
     "precio_final": 100000.0,
     "en_stock": false
@@ -4026,7 +4017,7 @@
     "nombre": "Mochila IU DailyHustle 15L Negro",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-iu-dailyhustle-15l-negro/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilaiudailyhustle15lngo_1-bd5351bc8abb90297a17779867509220-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 51990.0,
     "precio_final": 41592.0,
     "en_stock": false
@@ -4044,7 +4035,7 @@
     "nombre": "Mochila Nox Luxury Open Series Marrón",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-nox-luxury-open-series-marron/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilanoxluxuryopenseriesngo2fmarron_1-f8088c2ca926fa5ce017798449584089-480-0.webp",
     "precio_origen": 176400.0,
     "precio_final": 141120.0,
     "en_stock": false
@@ -4134,7 +4125,7 @@
     "nombre": "Mochila Nox Street Gris",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-nox-street-gris/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilanoxstreetgris_1-a4911c384d76585d1817804310781030-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 154350.0,
     "precio_final": 123480.0,
     "en_stock": false
@@ -4146,6 +4137,15 @@
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilanoxproseriesnegro_1-6fa605ac21d62d34cb17803504734479-480-0.webp",
     "precio_origen": 169050.0,
     "precio_final": 135240.0,
+    "en_stock": false
+  },
+  {
+    "nombre": "Paletero Head Team Padel L Negro/Gris",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-head-team-padel-l-negro-gris-6s907/",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoheadteampadelnegro2fgris_1-1773c55709b7e10c8717822758458520-480-0.webp",
+    "precio_origen": 177000.0,
+    "precio_final": 141600.0,
     "en_stock": false
   },
   {
