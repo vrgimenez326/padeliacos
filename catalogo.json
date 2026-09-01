@@ -117,21 +117,21 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Head Speed Pro 23",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-head-speed-pro-23/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaheadspeedpro23_2-aeacb4a84cd36c493c17798002641714-480-0.webp",
-    "precio_origen": 395000.0,
-    "precio_final": 316000.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paleta Bullpadel Neuron 02 Edge 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-neuron-02-edge-26/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelneuron02edge26_1-857b28e306a5e86b9917798828313739-480-0.webp",
     "precio_origen": 630000.0,
     "precio_final": 504000.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paleta Head Speed Pro 23",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-head-speed-pro-23/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 395000.0,
+    "precio_final": 316000.0,
     "en_stock": true
   },
   {
