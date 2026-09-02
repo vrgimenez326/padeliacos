@@ -270,6 +270,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Nox Future Control 26",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-nox-future-control-26-27mhs/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 395000.0,
+    "precio_final": 316000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Siux Electra Pro 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-siux-electra-pro-26-1qics/",
@@ -285,15 +294,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 249000.0,
     "precio_final": 199200.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Nox Future Control 26",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-nox-future-control-26-27mhs/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 395000.0,
-    "precio_final": 316000.0,
     "en_stock": true
   },
   {
@@ -864,6 +864,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Adidas Cross It Team CTRL 3.5",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-adidas-cross-it-team-ctrl-3-5-128xn/",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaadidascrossitteamctrl3-5_1-d6ad040084822bc5be17800592784534-480-0.webp",
+    "precio_origen": 437000.0,
+    "precio_final": 349600.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Pro Go Ignis Rage 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-pro-go-ignis-rage-26-65nhf/",
@@ -876,7 +885,7 @@
     "nombre": "Paleta Adidas Arrow Hit Carbon CTRL 3.5",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-adidas-arrow-hit-carbon-ctrl-3-5-8pynf/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaadidasarrowhitcarbonctrl3-5_1-9e452c4b7f35cf141517848156666229-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 646000.0,
     "precio_final": 516800.0,
     "en_stock": true
@@ -966,7 +975,7 @@
     "nombre": "Paleta Lok Maxx Hype",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-lok-maxx-hype/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletalokmaxxhype_1-5560706434899f5ed317830024728134-480-0.webp",
     "precio_origen": 739100.0,
     "precio_final": 591280.0,
     "en_stock": true
@@ -984,7 +993,7 @@
     "nombre": "Paleta Tecnifibre Wall Master 365",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-tecnifibre-wall-master-365/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/1201e64ddbe083241e0b441687876566666410241024-04680fe4165e3b1dad17837082260743-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 254000.0,
     "precio_final": 203200.0,
     "en_stock": true
@@ -1050,15 +1059,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 575000.0,
     "precio_final": 460000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Adidas Cross It Team CTRL 3.5",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-adidas-cross-it-team-ctrl-3-5-128xn/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 437000.0,
-    "precio_final": 349600.0,
     "en_stock": true
   },
   {
