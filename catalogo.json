@@ -144,21 +144,21 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Head Gravity Pro 23",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-head-gravity-pro-23/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 285000.0,
-    "precio_final": 228000.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paleta Head Radical Pro 24",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-head-radical-pro-24/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 395000.0,
     "precio_final": 316000.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paleta Head Gravity Pro 23",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-head-gravity-pro-23/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 285000.0,
+    "precio_final": 228000.0,
     "en_stock": true
   },
   {
