@@ -2961,6 +2961,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Mochila Joma Team",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/mochila-joma-team-cd0j4/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 50900.0,
+    "precio_final": 40720.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Mochila Hirostar Alien by Tolito Aguirre",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-hirostar-alien-by-tolito-aguirre-15lq2/",
@@ -3036,7 +3045,7 @@
     "nombre": "Paletero Wilson Super Tour Rojo",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-wilson-super-tour-rojo/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsowilsonsupertourrojo_1-7c874c9f2e09d1435717872461178820-480-0.webp",
     "precio_origen": 191000.0,
     "precio_final": 152800.0,
     "en_stock": true
@@ -3054,7 +3063,7 @@
     "nombre": "Bolso Bullpadel Next Bag Naranja",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/bolso-bullpadel-next-bag-naranja/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/1151142db85a7269210d531695134307033110241024-9c97432e1bbd6e5dcb17882856944842-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 190000.0,
     "precio_final": 152000.0,
     "en_stock": true
@@ -3066,15 +3075,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 49000.0,
     "precio_final": 39200.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Mochila Joma Team",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-joma-team-cd0j4/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 50900.0,
-    "precio_final": 40720.0,
     "en_stock": true
   },
   {
