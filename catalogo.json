@@ -2826,6 +2826,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paletero Bullpadel Advance 26",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-advance-26-1kqg5/",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadeladvance26_1_ngo2fvde-352d1fbc69e6f6573c17817869483439-480-0.webp",
+    "precio_origen": 169000.0,
+    "precio_final": 135200.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Mochila Bullpadel Vertex Geo Premier 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-vertex-geo-premier-26-8cxyl/",
@@ -2838,7 +2847,7 @@
     "nombre": "Bolso Varlion Ambassadors Retro",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/bolso-varlion-ambassadors-retro-176t0/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsovarlionambassadorsretrow_1_bco-5890e1ac74268ff9d517811456858358-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 229000.0,
     "precio_final": 183200.0,
     "en_stock": true
@@ -2886,15 +2895,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 170000.0,
     "precio_final": 136000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paletero Bullpadel Advance 26",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-advance-26-1kqg5/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 169000.0,
-    "precio_final": 135200.0,
     "en_stock": true
   },
   {
