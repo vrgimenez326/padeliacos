@@ -279,6 +279,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Babolat Air Viper 2.6",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-babolat-air-viper-2-6-r699s/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 549000.0,
+    "precio_final": 439200.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Dropshot X-Tourer 23",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-dropshot-x-tourer-23/",
@@ -294,15 +303,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 607150.0,
     "precio_final": 485720.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Babolat Air Viper 2.6",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-babolat-air-viper-2-6-r699s/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 549000.0,
-    "precio_final": 439200.0,
     "en_stock": true
   },
   {
@@ -2502,6 +2502,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Steel Custom Air Boss LTD 23",
+    "categoria": "nacionales",
+    "url": "https://www.metapadel.com.ar/productos/paleta-steel-custom-air-boss-ltd-23/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 190000.0,
+    "precio_final": 152000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Urich Fusion Hard 26",
     "categoria": "nacionales",
     "url": "https://www.metapadel.com.ar/productos/paleta-urich-fusion-hard-26-13mrq/",
@@ -2517,15 +2526,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 265000.0,
     "precio_final": 212000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Steel Custom Air Boss LTD 23",
-    "categoria": "nacionales",
-    "url": "https://www.metapadel.com.ar/productos/paleta-steel-custom-air-boss-ltd-23/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 190000.0,
-    "precio_final": 152000.0,
     "en_stock": true
   },
   {
