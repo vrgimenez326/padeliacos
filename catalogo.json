@@ -351,6 +351,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Pack Bullpadel Vertex 04 Woman 25",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/pack-bullpadel-vertex-04-woman-25-6hl3d/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 590000.0,
+    "precio_final": 472000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Joma Slam Pro",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-joma-slam-pro1/",
@@ -411,15 +420,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 715000.0,
     "precio_final": 572000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Pack Bullpadel Vertex 04 Woman 25",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/pack-bullpadel-vertex-04-woman-25-6hl3d/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 590000.0,
-    "precio_final": 472000.0,
     "en_stock": true
   },
   {
