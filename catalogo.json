@@ -306,6 +306,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Babolat Technical Veron 3.0",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-babolat-technical-veron-3-0-1g71a/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 440000.0,
+    "precio_final": 352000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Adidas Metalbone Carbon 3.5",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-adidas-metalbone-carbon-3-5-485nk/",
@@ -318,7 +327,7 @@
     "nombre": "Paleta Nox AT10 Genius 12K Xtrem 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-nox-at10-genius-12k-xtrem-26-x6w15/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletanoxat10genius12kxtrem26_1-06b8a2a29fcb30500717798037880839-480-0.webp",
     "precio_origen": 735000.0,
     "precio_final": 588000.0,
     "en_stock": true
@@ -330,15 +339,6 @@
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaadidasadipowercarbonlight3-4_8-bdc4fa0165297f278617853309470585-480-0.webp",
     "precio_origen": 531000.0,
     "precio_final": 424800.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Babolat Technical Veron 3.0",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-babolat-technical-veron-3-0-1g71a/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletababolattechnicalveron3-0_1-8052abe1751710d48f17810942283972-480-0.webp",
-    "precio_origen": 440000.0,
-    "precio_final": 352000.0,
     "en_stock": true
   },
   {
