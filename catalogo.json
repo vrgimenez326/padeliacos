@@ -2709,10 +2709,19 @@
     "en_stock": true
   },
   {
+    "nombre": "Paletero Varlion Ergonomic Begins",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-ergonomic-begins-2hska/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 115000.0,
+    "precio_final": 92000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paletero Adidas Protour 3.5",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-adidas-protour-3-5-juusg/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoadidasprotour3-5_2_rosa-d4a687865a5a9448f617800815537340-480-0.webp",
     "precio_origen": 345800.0,
     "precio_final": 276640.0,
     "en_stock": true
@@ -2730,7 +2739,7 @@
     "nombre": "Paletero Bullpadel Neuron 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-neuron-26-1ralu/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadelneuron26_1_grisosc-e7cf018a42470e6d3417798024661166-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 250000.0,
     "precio_final": 200000.0,
     "en_stock": true
@@ -2742,15 +2751,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 199000.0,
     "precio_final": 159200.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paletero Varlion Ergonomic Begins",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-ergonomic-begins-2hska/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 115000.0,
-    "precio_final": 92000.0,
     "en_stock": true
   },
   {
