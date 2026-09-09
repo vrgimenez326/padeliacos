@@ -378,6 +378,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Bullpadel Vertex 04 Comfort",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-vertex-04-comfort-1of4u/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 395000.0,
+    "precio_final": 316000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Hirostar Redstone 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-hirostar-redstone-26-1moli/",
@@ -426,7 +435,7 @@
     "nombre": "Paleta Bullpadel Neuron 02 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-neuron-02-26/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelneuron0226_1-59338a75b3d4d5eaad17798828023497-480-0.webp",
     "precio_origen": 630000.0,
     "precio_final": 504000.0,
     "en_stock": true
@@ -438,15 +447,6 @@
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletajomagoldpro_1-e0878dd8154505589f17806794058985-480-0.webp",
     "precio_origen": 375000.0,
     "precio_final": 300000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Bullpadel Vertex 04 Comfort",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-vertex-04-comfort-1of4u/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelvertex04mpa_1-8f6d00f013589e691817806024723479-480-0.webp",
-    "precio_origen": 395000.0,
-    "precio_final": 316000.0,
     "en_stock": true
   },
   {
