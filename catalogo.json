@@ -621,6 +621,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Dropshot Canyon Pro 1.0 23",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-dropshot-canyon-pro-1-0-23/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 499300.0,
+    "precio_final": 399440.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Head Extreme Pro 25",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-head-extreme-pro-25-1p8te/",
@@ -642,7 +651,7 @@
     "nombre": "Paleta Hirostar Andromeda 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-hirostar-andromeda-26-19pbz/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletahirostarandromeda26_1-4597d6e032bdd9af5a17808542165008-480-0.webp",
     "precio_origen": 404000.0,
     "precio_final": 323200.0,
     "en_stock": true
@@ -660,7 +669,7 @@
     "nombre": "Paleta Adidas Cross It Team CTRL 3.5",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-adidas-cross-it-team-ctrl-3-5-128xn/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaadidascrossitteamctrl3-5_1-d6ad040084822bc5be17800592784534-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 437000.0,
     "precio_final": 349600.0,
     "en_stock": true
@@ -750,7 +759,7 @@
     "nombre": "Paleta Odpro Evolution Luxury 6K",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-odpro-evolution-luxury-6k/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaodproevolutionluxury6k_1-4ba3b4f34cd62dfac617824956830031-480-0.webp",
     "precio_origen": 315000.0,
     "precio_final": 252000.0,
     "en_stock": true
@@ -762,15 +771,6 @@
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaheadboltazul23_1-ad907bf85a6940646417882934224313-480-0.webp",
     "precio_origen": 288150.0,
     "precio_final": 230520.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Dropshot Canyon Pro 1.0 23",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-dropshot-canyon-pro-1-0-23/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/1b064e3925502d55e261696344979452910241024-7ee7b07ab233c071d417806734149793-480-0.webp",
-    "precio_origen": 499300.0,
-    "precio_final": 399440.0,
     "en_stock": true
   },
   {
