@@ -81,9 +81,9 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Nox AT Genius Attack 18K 24",
+    "nombre": "Paleta Nox AT10 Genius Attack 18K 24",
     "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-nox-at-genius-attack-18k-24/",
+    "url": "https://www.metapadel.com.ar/productos/paleta-nox-at10-genius-attack-18k-24-15x75/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 439000.0,
     "precio_final": 351200.0,
@@ -144,21 +144,21 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Head Radical Pro 24",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-head-radical-pro-24/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 395000.0,
-    "precio_final": 316000.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paleta Head Gravity Pro 23",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-head-gravity-pro-23/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 285000.0,
     "precio_final": 228000.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paleta Head Radical Pro 24",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-head-radical-pro-24/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 395000.0,
+    "precio_final": 316000.0,
     "en_stock": true
   },
   {
