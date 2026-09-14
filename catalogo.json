@@ -162,21 +162,21 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Nox Future Attack 15k 26",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-nox-future-attack-15k-26-1irkw/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 485100.0,
-    "precio_final": 388080.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paleta Adidas Cross IT 3.4",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-adidas-cross-it-3-4/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 564300.0,
     "precio_final": 451440.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paleta Nox Future Attack 15k 26",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-nox-future-attack-15k-26-1irkw/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 485100.0,
+    "precio_final": 388080.0,
     "en_stock": true
   },
   {
@@ -243,21 +243,21 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Nox Future Control 26",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-nox-future-control-26-27mhs/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 395000.0,
-    "precio_final": 316000.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paleta Head Coello Pro 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-head-coello-pro-26-te3kg/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 600000.0,
     "precio_final": 480000.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paleta Nox Future Control 26",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-nox-future-control-26-27mhs/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 395000.0,
+    "precio_final": 316000.0,
     "en_stock": true
   },
   {
