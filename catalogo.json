@@ -459,6 +459,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Head Coello Motion 26",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-head-coello-motion-26-15n3a/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 600000.0,
+    "precio_final": 480000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Nox VK10 Ventus 12K 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-nox-vk10-ventus-12k-26-7y271/",
@@ -501,15 +510,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 564300.0,
     "precio_final": 451440.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Head Coello Motion 26",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-head-coello-motion-26-15n3a/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 600000.0,
-    "precio_final": 480000.0,
     "en_stock": true
   },
   {
@@ -873,10 +873,19 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Nox AT10 Genius 18K 24",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-nox-at10-genius-18k-24/",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletanoxat10genius18k24_1-341dda42c59cb8b99817830964461725-480-0.webp",
+    "precio_origen": 439000.0,
+    "precio_final": 351200.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Siux Gea",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-siux-gea/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletasiuxgea_1-c7bc63cc22a848f0fb17830024550934-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 325500.0,
     "precio_final": 260400.0,
     "en_stock": true
@@ -966,7 +975,7 @@
     "nombre": "Paleta Tecnifibre Wall Master 365",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-tecnifibre-wall-master-365/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/1201e64ddbe083241e0b441687876566666410241024-04680fe4165e3b1dad17837082260743-480-0.webp",
     "precio_origen": 254000.0,
     "precio_final": 203200.0,
     "en_stock": true
@@ -984,7 +993,7 @@
     "nombre": "Paleta Bullpadel Vertex 05 Light PP26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-vertex-05-light-pp26-632eo/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelvertex05lightpp26_3-7417e82344a1acf66d17812813170766-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 680000.0,
     "precio_final": 544000.0,
     "en_stock": true
@@ -1068,15 +1077,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 649900.0,
     "precio_final": 519920.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Nox AT10 Genius 18K 24",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-nox-at10-genius-18k-24/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 439000.0,
-    "precio_final": 351200.0,
     "en_stock": true
   },
   {
