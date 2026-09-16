@@ -666,10 +666,19 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Nox AT10 Genius 18K 24",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-nox-at10-genius-18k-24/",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletanoxat10genius18k24_1-341dda42c59cb8b99817830964461725-480-0.webp",
+    "precio_origen": 439000.0,
+    "precio_final": 351200.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Bullpadel Xplo Premier 25",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-xplo-premier-25/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelxplopremier25_1-af673974fed983d14817806817618110-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 680000.0,
     "precio_final": 544000.0,
     "en_stock": true
@@ -753,15 +762,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 630000.0,
     "precio_final": 504000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Nox AT10 Genius 18K 24",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-nox-at10-genius-18k-24/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 439000.0,
-    "precio_final": 351200.0,
     "en_stock": true
   },
   {
