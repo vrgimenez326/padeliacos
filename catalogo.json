@@ -189,6 +189,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Babolat Air Veron 2.6",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-babolat-air-veron-2-6-1wluf/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 440000.0,
+    "precio_final": 352000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Babolat Counter Viper 2.5",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-babolat-counter-viper-2-5/",
@@ -204,15 +213,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 600000.0,
     "precio_final": 480000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Babolat Air Veron 2.6",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-babolat-air-veron-2-6-1wluf/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 440000.0,
-    "precio_final": 352000.0,
     "en_stock": true
   },
   {
@@ -2736,6 +2736,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paletero Varlion Ergonomic Begins",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-ergonomic-begins-2hska/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 115000.0,
+    "precio_final": 92000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paletero Adidas Multigame 3.5",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-adidas-multigame-3-5-oe7nd/",
@@ -2769,15 +2778,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 250000.0,
     "precio_final": 200000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paletero Varlion Ergonomic Begins",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-ergonomic-begins-2hska/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 115000.0,
-    "precio_final": 92000.0,
     "en_stock": true
   },
   {
