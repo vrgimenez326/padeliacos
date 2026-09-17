@@ -1,14 +1,5 @@
 [
   {
-    "nombre": "ver otros acá",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/",
-    "imagen": "",
-    "precio_origen": 300000.0,
-    "precio_final": 240000.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paleta Nox AT10 Genius 18K 25",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-nox-at10-genius-18k-25/",
@@ -63,21 +54,21 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Bullpadel Vertex 05 Comfort 26",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-vertex-05-comfort-26-yinqx/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 460000.0,
-    "precio_final": 368000.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paleta Nox AT10 Genius Attack 18K 24",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-nox-at10-genius-attack-18k-24-15x75/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 439000.0,
     "precio_final": 351200.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paleta Bullpadel Vertex 05 Comfort 26",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-vertex-05-comfort-26-yinqx/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 460000.0,
+    "precio_final": 368000.0,
     "en_stock": true
   },
   {
@@ -114,6 +105,15 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 285000.0,
     "precio_final": 228000.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "ver otros acá",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/",
+    "imagen": "",
+    "precio_origen": 300000.0,
+    "precio_final": 240000.0,
     "en_stock": true
   },
   {
@@ -198,6 +198,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Siux Fenix Pro 26",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-siux-fenix-pro-26-tho76/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 589000.0,
+    "precio_final": 471200.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Babolat Counter Viper 2.5",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-babolat-counter-viper-2-5/",
@@ -219,7 +228,7 @@
     "nombre": "Paleta Babolat Veron Juan Lebrón 3.0",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-babolat-veron-juan-lebron-3-0-11kkf/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletababolatveronjuanlebrc3b3n3-0_1-a20ce52268b7b8a35c17801557226427-480-0.webp",
     "precio_origen": 425000.0,
     "precio_final": 340000.0,
     "en_stock": true
@@ -237,7 +246,7 @@
     "nombre": "Paleta Wilson Defy Pro V1 25",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-wilson-defy-pro-v1-25/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletawilsondefyprov1ngo2fdorado_1-0db2419421eb5ef25317863894849998-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 535999.0,
     "precio_final": 428799.2,
     "en_stock": true
@@ -249,15 +258,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 438800.0,
     "precio_final": 351040.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Siux Fenix Pro 26",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-siux-fenix-pro-26-tho76/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 589000.0,
-    "precio_final": 471200.0,
     "en_stock": true
   },
   {
@@ -2538,15 +2538,6 @@
     "en_stock": false
   },
   {
-    "nombre": "ver otros acá",
-    "categoria": "nacionales",
-    "url": "https://www.metapadel.com.ar/productos/",
-    "imagen": "",
-    "precio_origen": 300000.0,
-    "precio_final": 240000.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paleta Urich Dropper Soft 25",
     "categoria": "nacionales",
     "url": "https://www.metapadel.com.ar/productos/paleta-urich-dropper-soft-25/",
@@ -2655,6 +2646,15 @@
     "en_stock": true
   },
   {
+    "nombre": "ver otros acá",
+    "categoria": "nacionales",
+    "url": "https://www.metapadel.com.ar/productos/",
+    "imagen": "",
+    "precio_origen": 300000.0,
+    "precio_final": 240000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Urich Deep Carbon 3K Flex Tech 24",
     "categoria": "nacionales",
     "url": "https://www.metapadel.com.ar/productos/paleta-urich-deep-carbon-3k-flex-tech-24/",
@@ -2689,15 +2689,6 @@
     "precio_origen": 359000.0,
     "precio_final": 287200.0,
     "en_stock": false
-  },
-  {
-    "nombre": "ver otros acá",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/",
-    "imagen": "",
-    "precio_origen": 300000.0,
-    "precio_final": 240000.0,
-    "en_stock": true
   },
   {
     "nombre": "Funda Varlion Basic",
@@ -2805,6 +2796,15 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 274890.0,
     "precio_final": 219912.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "ver otros acá",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/",
+    "imagen": "",
+    "precio_origen": 300000.0,
+    "precio_final": 240000.0,
     "en_stock": true
   },
   {
