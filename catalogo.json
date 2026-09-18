@@ -297,6 +297,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Nox AT10 Genius 18K 24",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-nox-at10-genius-18k-24/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 439000.0,
+    "precio_final": 351200.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Hirostar Alien Pro 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-hirostar-alien-pro-26-9bvw9/",
@@ -321,15 +330,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 617500.0,
     "precio_final": 494000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Nox AT10 Genius 18K 24",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-nox-at10-genius-18k-24/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 439000.0,
-    "precio_final": 351200.0,
     "en_stock": true
   },
   {
