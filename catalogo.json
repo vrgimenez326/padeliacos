@@ -468,6 +468,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Adidas Cross IT Carbon CTRL 3.4",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-adidas-cross-it-carbon-ctrl-3-4/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 564300.0,
+    "precio_final": 451440.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Head Coello Motion 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-head-coello-motion-26-15n3a/",
@@ -519,15 +528,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 450000.0,
     "precio_final": 360000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Adidas Cross IT Carbon CTRL 3.4",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-adidas-cross-it-carbon-ctrl-3-4/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 564300.0,
-    "precio_final": 451440.0,
     "en_stock": true
   },
   {
