@@ -342,10 +342,19 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Bullpadel Apache Power",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-apache-power-byadf/",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelapachepower_1-b4f617f1fba19d1ed817798241610450-480-0.webp",
+    "precio_origen": 264500.0,
+    "precio_final": 211600.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Bullpadel Ionic Light 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-ionic-light-26-1mrru/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelioniclight26_1-9f1e0021048a7442e917798827735655-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 499000.0,
     "precio_final": 399200.0,
     "en_stock": true
@@ -393,15 +402,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 542600.0,
     "precio_final": 434080.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Bullpadel Apache Power",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-apache-power-byadf/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 264500.0,
-    "precio_final": 211600.0,
     "en_stock": true
   },
   {
