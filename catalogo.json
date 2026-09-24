@@ -135,21 +135,21 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Siux Fenix Pro 26",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-siux-fenix-pro-26-tho76/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 589000.0,
-    "precio_final": 471200.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paleta Nox AT10 Genius 18K 24",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-nox-at10-genius-18k-24/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 439000.0,
     "precio_final": 351200.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paleta Siux Fenix Pro 26",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-siux-fenix-pro-26-tho76/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 589000.0,
+    "precio_final": 471200.0,
     "en_stock": true
   },
   {
