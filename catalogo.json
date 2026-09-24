@@ -207,15 +207,6 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Babolat Technical Vertuo 23",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-babolat-technical-vertuo-23/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 204800.0,
-    "precio_final": 163840.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paleta Head Coello Pro 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-head-coello-pro-26-te3kg/",
@@ -228,7 +219,7 @@
     "nombre": "Paleta Bullpadel Hack 04 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-hack-04-26/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelhack0426_1-7e9c368babe64f8e3017799836420325-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 630000.0,
     "precio_final": 504000.0,
     "en_stock": true
@@ -246,7 +237,7 @@
     "nombre": "Paleta Babolat Veron Juan Lebrón 3.0",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-babolat-veron-juan-lebron-3-0-11kkf/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletababolatveronjuanlebrc3b3n3-0_1-a20ce52268b7b8a35c17801557226427-480-0.webp",
     "precio_origen": 425000.0,
     "precio_final": 340000.0,
     "en_stock": true
@@ -336,7 +327,7 @@
     "nombre": "Paleta Head Coello Team 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-head-coello-team-26-1e2rc/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaheadcoelloteam26_1-de328cd7d264bde9e417806017108742-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 436000.0,
     "precio_final": 348800.0,
     "en_stock": true
@@ -354,7 +345,7 @@
     "nombre": "Paleta Adidas Metalbone Carbon 3.5",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-adidas-metalbone-carbon-3-5-485nk/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaadidasmetalbonecarbon3-5_1-88f93655f52457806e17800818252637-480-0.webp",
     "precio_origen": 617500.0,
     "precio_final": 494000.0,
     "en_stock": true
@@ -444,7 +435,7 @@
     "nombre": "Paleta Babolat Technical Viper 3.0",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-babolat-technical-viper-3-0-5r16z/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletababolattechnicalviper3-0_1-54300d8155ba42456c17800709183685-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 650000.0,
     "precio_final": 520000.0,
     "en_stock": true
@@ -462,7 +453,7 @@
     "nombre": "Paleta Nox AT10 Genius Attack 18K 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-nox-at10-genius-attack-18k-26-uwc3e/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletanoxat10geniusattack18k26_1-c0896d6c03870d1c5017809453692104-480-0.webp",
     "precio_origen": 715000.0,
     "precio_final": 572000.0,
     "en_stock": true
@@ -552,7 +543,7 @@
     "nombre": "Paleta Head Bolt 25",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-head-bolt-25-pykdr/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaheadbolt25_1_ngo2fcte-878b7cc89a34f0053617894915066508-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 210000.0,
     "precio_final": 168000.0,
     "en_stock": true
@@ -570,7 +561,7 @@
     "nombre": "Paleta Babolat Counter Origin",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-babolat-counter-origin-gzvd5/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletababolatcounterorigin_1-32cc39902899a128ae17861226535267-480-0.webp",
     "precio_origen": 220000.0,
     "precio_final": 176000.0,
     "en_stock": true
@@ -660,7 +651,7 @@
     "nombre": "Paleta Pro Go Gelidis Rage 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-pro-go-gelidis-rage-26-o3jcn/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaprogogelidisrage26_5-75d1328b7aca11a79f17798927083136-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 340000.0,
     "precio_final": 272000.0,
     "en_stock": true
@@ -678,7 +669,7 @@
     "nombre": "Pack Bullpadel Vertex 04 Man 25",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/pack-bullpadel-vertex-04-man-25-3to8k/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/combobullpadelvertex04m25_1-27497a4be9e909327f17810993833669-480-0.webp",
     "precio_origen": 590000.0,
     "precio_final": 472000.0,
     "en_stock": true
@@ -768,7 +759,7 @@
     "nombre": "Paleta Adidas Metalbone CTRL 3.5",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-adidas-metalbone-ctrl-3-5-iwhh7/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaadidasmetalbonectrl3-5_1-9e6b273dafdcdc3d2217798880830194-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 948100.0,
     "precio_final": 758480.0,
     "en_stock": true
@@ -786,7 +777,7 @@
     "nombre": "Paleta Bullpadel Ionic Control 25",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-ionic-control-25/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelioniccontrol25_1-ef038964a9ed7063fc17806709792157-480-0.webp",
     "precio_origen": 430000.0,
     "precio_final": 344000.0,
     "en_stock": true
@@ -876,7 +867,7 @@
     "nombre": "Paleta Bullpadel Neuron 02 Cloud 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-neuron-02-cloud-26-zsulw/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelneuron02cloud26_1-ac871e77fedc69ab1217811881120595-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 570000.0,
     "precio_final": 456000.0,
     "en_stock": true
@@ -894,7 +885,7 @@
     "nombre": "Paleta Adidas Cross It CTRL 3.5",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-adidas-cross-it-ctrl-3-5-s1xfg/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaadidascrossitctrl3-5_1-ee6b3e19b71821105417798974106706-480-0.webp",
     "precio_origen": 855000.0,
     "precio_final": 684000.0,
     "en_stock": true
@@ -984,7 +975,7 @@
     "nombre": "Paleta Adidas Adipower CTRL Multiweight Pro EDT 24",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-adidas-adipower-ctrl-multiweight-pro-edt-24/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaadidasadipowerctrlmtwproedt2024_1-bd736367df71ed498517836923214004-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 779000.0,
     "precio_final": 623200.0,
     "en_stock": true
@@ -1002,7 +993,7 @@
     "nombre": "Paleta Dropshot Bjorn",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-dropshot-bjorn/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/1321925f339f172d1591741687880152923810241024-df9682d57eb944bc6717900035103741-480-0.webp",
     "precio_origen": 242700.0,
     "precio_final": 194160.0,
     "en_stock": true
@@ -1092,7 +1083,7 @@
     "nombre": "Paleta Madma Pro Label 3.4",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-madma-pro-label-3-4/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletamadmaprolabel3-4_1-0427b930e1c22b2bba17866762481017-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 220500.0,
     "precio_final": 176400.0,
     "en_stock": true
@@ -1110,7 +1101,7 @@
     "nombre": "Paleta Joma Slam Flex",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-joma-slam-flex/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletajomaslamflex_1-b1e8c2701e1962535317801455487296-480-0.webp",
     "precio_origen": 255000.0,
     "precio_final": 204000.0,
     "en_stock": true
@@ -1200,7 +1191,7 @@
     "nombre": "Paleta Bullpadel Vertex 05 MX 25",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-vertex-05-mx-25-i20cu/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelvertex05mx25ltd_1-4218f3b200aa4aadeb17893986806896-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 789000.0,
     "precio_final": 631200.0,
     "en_stock": true
@@ -1218,7 +1209,7 @@
     "nombre": "Paleta Odpro Thunder Luxury 18K 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-odpro-thunder-luxury-18k-26-1i24a/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaodprothunderluxury18k26_2-0214a1791aca6aa3e917818816367550-480-0.webp",
     "precio_origen": 367500.0,
     "precio_final": 294000.0,
     "en_stock": true
@@ -1308,7 +1299,7 @@
     "nombre": "Paleta Bullpadel Hack 04 Hybrid Cloud 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-hack-04-hybrid-cloud-26-var4n/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelhack04hybridcloud26_1-f95ebce6d02687223417809286192163-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 504000.0,
     "precio_final": 403200.0,
     "en_stock": true
@@ -1326,7 +1317,7 @@
     "nombre": "Paleta Varlion LW Carbon Goldblack 25",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-varlion-lw-carbon-goldblack-25-1sujv/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletavarlionlwcarbongoldblack25_1-2d4394ca8611f143db17863754911040-480-0.webp",
     "precio_origen": 430000.0,
     "precio_final": 344000.0,
     "en_stock": true
@@ -1416,7 +1407,7 @@
     "nombre": "Paleta Sane Potential Advanced Edition",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-sane-potential-advanced-edition/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletasanepotentialadvancededition_1-4c9b6c9f476f04d85d17812768025431-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 308000.0,
     "precio_final": 246400.0,
     "en_stock": true
@@ -1434,7 +1425,7 @@
     "nombre": "Paleta Felina Fang",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-felina-fang/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletafelinafang_1-1399cc9d842828146717739609845536-480-0.webp",
     "precio_origen": 409000.0,
     "precio_final": 327200.0,
     "en_stock": true
@@ -1524,7 +1515,7 @@
     "nombre": "Paleta Lok Carbon Flow",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-lok-carbon-flow/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletalokcarbonflow_2-b59f3c092e65b7418917739525570682-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 615600.0,
     "precio_final": 492480.0,
     "en_stock": true
@@ -1542,7 +1533,7 @@
     "nombre": "Paleta Dropshot Furia Attack 24",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-dropshot-furia-attack-24/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletadropshotfuriaattack_1-014ebead366db2b96117739524466564-480-0.webp",
     "precio_origen": 564500.0,
     "precio_final": 451600.0,
     "en_stock": true
@@ -1632,7 +1623,7 @@
     "nombre": "Paleta Adidas Metalbone HRD+ 3.4",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-adidas-metalbone-hrd-3-4/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaadidasmetalbonehrd2b3-4_1-2909db3691b70f8ac317798247416250-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 590000.0,
     "precio_final": 472000.0,
     "en_stock": false
@@ -1650,7 +1641,7 @@
     "nombre": "Paleta Nox ML10 Pro Cup Light 25",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-nox-ml10-pro-cup-light-25/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletanoxml10procuplight25_1-3b07beb2bdbed3ed0817807557771877-480-0.webp",
     "precio_origen": 295000.0,
     "precio_final": 236000.0,
     "en_stock": false
@@ -1740,7 +1731,7 @@
     "nombre": "Paleta Nox AT10 Genius 18K 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-nox-at10-genius-18k-26-ojtm0/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletanoxat10genius18k26_1-317f77626f297381fe17806972765217-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 837900.0,
     "precio_final": 670320.0,
     "en_stock": false
@@ -1758,7 +1749,7 @@
     "nombre": "Paleta Babolat Technical Veron 2.5",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-babolat-technical-veron-2-5/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletababolattechnicalveron2-5_1-334ab69e52f397a35917820867084612-480-0.webp",
     "precio_origen": 405000.0,
     "precio_final": 324000.0,
     "en_stock": false
@@ -1770,6 +1761,15 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 454999.0,
     "precio_final": 363999.2,
+    "en_stock": false
+  },
+  {
+    "nombre": "Paleta Babolat Technical Vertuo 23",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-babolat-technical-vertuo-23/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 204800.0,
+    "precio_final": 163840.0,
     "en_stock": false
   },
   {
