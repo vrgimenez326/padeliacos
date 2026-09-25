@@ -738,6 +738,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Bullpadel Ionic Control 26",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-ionic-control-26-1f05y/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 441200.0,
+    "precio_final": 352960.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Babolat Counter Vertuo 2.6",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-babolat-counter-vertuo-2-6-gpuhp/",
@@ -759,7 +768,7 @@
     "nombre": "Paleta Adidas Metalbone CTRL 3.5",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-adidas-metalbone-ctrl-3-5-iwhh7/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaadidasmetalbonectrl3-5_1-9e6b273dafdcdc3d2217798880830194-480-0.webp",
     "precio_origen": 948100.0,
     "precio_final": 758480.0,
     "en_stock": true
@@ -777,7 +786,7 @@
     "nombre": "Paleta Bullpadel Ionic Control 25",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-ionic-control-25/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelioniccontrol25_1-ef038964a9ed7063fc17806709792157-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 430000.0,
     "precio_final": 344000.0,
     "en_stock": true
@@ -867,18 +876,9 @@
     "nombre": "Paleta Bullpadel Neuron 02 Cloud 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-neuron-02-cloud-26-zsulw/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelneuron02cloud26_1-ac871e77fedc69ab1217811881120595-480-0.webp",
     "precio_origen": 570000.0,
     "precio_final": 456000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Bullpadel Ionic Control 26",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-ionic-control-26-1f05y/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelioniccontrol26_1-e668bb6924e1545a7317798247071915-480-0.webp",
-    "precio_origen": 441200.0,
-    "precio_final": 352960.0,
     "en_stock": true
   },
   {
