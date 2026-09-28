@@ -135,6 +135,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Head Flash Pro 23",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-head-flash-pro-23/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 219000.0,
+    "precio_final": 175200.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Head Gravity Pro 23",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-head-gravity-pro-23/",
@@ -159,15 +168,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 589000.0,
     "precio_final": 471200.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Head Flash Pro 23",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-head-flash-pro-23/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 219000.0,
-    "precio_final": 175200.0,
     "en_stock": true
   },
   {
@@ -540,10 +540,19 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Head Coello Vibe 26",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-head-coello-vibe-26-16pcw/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 308000.0,
+    "precio_final": 246400.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Head Bolt 25",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-head-bolt-25-pykdr/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaheadbolt25_1_ngo2fcte-878b7cc89a34f0053617894915066508-480-0.webp",
     "precio_origen": 210000.0,
     "precio_final": 168000.0,
     "en_stock": true
@@ -561,7 +570,7 @@
     "nombre": "Paleta Bullpadel Vertex 05 Hybrid 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-vertex-05-hybrid-26-ljz9i/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelvertex05hybrid26_1-b6f60ea829229f829017798003106188-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 649900.0,
     "precio_final": 519920.0,
     "en_stock": true
@@ -609,15 +618,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 513000.0,
     "precio_final": 410400.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Head Coello Vibe 26",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-head-coello-vibe-26-16pcw/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 308000.0,
-    "precio_final": 246400.0,
     "en_stock": true
   },
   {
