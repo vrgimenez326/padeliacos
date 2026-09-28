@@ -144,21 +144,21 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Siux Fenix Pro 26",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-siux-fenix-pro-26-tho76/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 589000.0,
-    "precio_final": 471200.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paleta Bullpadel Vertex 04 Woman",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-vertex-04-woman-1cp85/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 395000.0,
     "precio_final": 316000.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paleta Siux Fenix Pro 26",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-siux-fenix-pro-26-tho76/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 589000.0,
+    "precio_final": 471200.0,
     "en_stock": true
   },
   {
@@ -198,6 +198,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Nox Future Control 26",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-nox-future-control-26-27mhs/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 395000.0,
+    "precio_final": 316000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Head Coello Pro 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-head-coello-pro-26-te3kg/",
@@ -219,18 +228,9 @@
     "nombre": "Paleta Nox Future Attack 15k 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-nox-future-attack-15k-26-1irkw/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletanoxfutureattack15k_1-36a1166d9198c4700017798024133132-480-0.webp",
     "precio_origen": 485100.0,
     "precio_final": 388080.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Nox Future Control 26",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-nox-future-control-26-27mhs/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletanoxfuturecontrol2026_1-fdd8686c4938557d5d17799108270613-480-0.webp",
-    "precio_origen": 395000.0,
-    "precio_final": 316000.0,
     "en_stock": true
   },
   {
@@ -279,6 +279,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Bullpadel Vertex 04 Comfort",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-vertex-04-comfort-1of4u/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 395000.0,
+    "precio_final": 316000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Bullpadel Neuron 02 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-neuron-02-26/",
@@ -294,15 +303,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 249000.0,
     "precio_final": 199200.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Bullpadel Vertex 04 Comfort",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-vertex-04-comfort-1of4u/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 395000.0,
-    "precio_final": 316000.0,
     "en_stock": true
   },
   {
@@ -2817,6 +2817,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Bolso Varlion Ambassadors Retro",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/bolso-varlion-ambassadors-retro-176t0/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 229000.0,
+    "precio_final": 183200.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paletero Babolat RH4 Pro Padel",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-babolat-rh4-pro-padel/",
@@ -2883,7 +2892,7 @@
     "nombre": "Mochila Bullpadel Vertex Geo Premier 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-vertex-geo-premier-26-8cxyl/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilabullpadelvertexgeopremier26_1_negro-c3fae503efd337fd5917863895256618-480-0.webp",
     "precio_origen": 189000.0,
     "precio_final": 151200.0,
     "en_stock": true
@@ -2895,15 +2904,6 @@
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadelvertexgeopremier26_1_negro-4045ae1ab86022890d17813066887797-480-0.webp",
     "precio_origen": 280000.0,
     "precio_final": 224000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Bolso Varlion Ambassadors Retro",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bolso-varlion-ambassadors-retro-176t0/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsovarlionambassadorsretrow_1_bco-5890e1ac74268ff9d517811456858358-480-0.webp",
-    "precio_origen": 229000.0,
-    "precio_final": 183200.0,
     "en_stock": true
   },
   {
