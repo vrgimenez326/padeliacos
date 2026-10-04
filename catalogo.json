@@ -369,6 +369,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Babolat Counter Veron 2.6",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-babolat-counter-veron-2-6-1myh2/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 440000.0,
+    "precio_final": 352000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Babolat Counter Viper 2.6",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-babolat-counter-viper-2-6-1cxpn/",
@@ -420,15 +429,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 531000.0,
     "precio_final": 424800.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Babolat Counter Veron 2.6",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-babolat-counter-veron-2-6-1myh2/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 440000.0,
-    "precio_final": 352000.0,
     "en_stock": true
   },
   {
@@ -2664,15 +2664,6 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Urich Fusion Flex 26",
-    "categoria": "nacionales",
-    "url": "https://www.metapadel.com.ar/productos/paleta-urich-fusion-flex-26-17n9t/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 299000.0,
-    "precio_final": 239200.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paleta Urich Iron Hard 26",
     "categoria": "nacionales",
     "url": "https://www.metapadel.com.ar/productos/paleta-urich-iron-hard-26-ihz70/",
@@ -2697,6 +2688,15 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 359000.0,
     "precio_final": 287200.0,
+    "en_stock": false
+  },
+  {
+    "nombre": "Paleta Urich Fusion Flex 26",
+    "categoria": "nacionales",
+    "url": "https://www.metapadel.com.ar/productos/paleta-urich-fusion-flex-26-17n9t/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 299000.0,
+    "precio_final": 239200.0,
     "en_stock": false
   },
   {
