@@ -99,12 +99,12 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Head Gravity Pro 23",
+    "nombre": "Paleta Head Flash Pro 23",
     "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-head-gravity-pro-23/",
+    "url": "https://www.metapadel.com.ar/productos/paleta-head-flash-pro-23/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 285000.0,
-    "precio_final": 228000.0,
+    "precio_origen": 219000.0,
+    "precio_final": 175200.0,
     "en_stock": true
   },
   {
@@ -117,21 +117,21 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Head Gravity Pro 23",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-head-gravity-pro-23/",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaheadgravitypro23_11-fb22d2a97030d0a43017798844428764-480-0.webp",
+    "precio_origen": 285000.0,
+    "precio_final": 228000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Bullpadel Vertex 04 Woman",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-vertex-04-woman-1cp85/",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletabullpadelvertex04wpa_1-14a282b21d6897ce9c17798817168786-480-0.webp",
     "precio_origen": 395000.0,
     "precio_final": 316000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Head Flash Pro 23",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-head-flash-pro-23/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaheadflashpro23_1-7a1e2b51a121b8d88d17816501402189-480-0.webp",
-    "precio_origen": 219000.0,
-    "precio_final": 175200.0,
     "en_stock": true
   },
   {
@@ -288,15 +288,6 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Bullpadel Neuron 02 26",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-neuron-02-26/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 630000.0,
-    "precio_final": 504000.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paleta Babolat Technical Veron 3.0",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-babolat-technical-veron-3-0-1g71a/",
@@ -306,12 +297,12 @@
     "en_stock": true
   },
   {
-    "nombre": "Paleta Head Vibe 25",
+    "nombre": "Paleta Bullpadel Neuron 02 26",
     "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-head-vibe-25/",
+    "url": "https://www.metapadel.com.ar/productos/paleta-bullpadel-neuron-02-26/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 249000.0,
-    "precio_final": 199200.0,
+    "precio_origen": 630000.0,
+    "precio_final": 504000.0,
     "en_stock": true
   },
   {
@@ -321,6 +312,15 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 600000.0,
     "precio_final": 480000.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paleta Head Vibe 25",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-head-vibe-25/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 249000.0,
+    "precio_final": 199200.0,
     "en_stock": true
   },
   {
@@ -2736,6 +2736,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Bolso Varlion Ambassadors Retro",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/bolso-varlion-ambassadors-retro-176t0/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 171700.0,
+    "precio_final": 137360.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Mochila Bullpadel Advance 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-advance-26-12jy6/",
@@ -2751,15 +2760,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 250000.0,
     "precio_final": 200000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Bolso Varlion Ambassadors Retro",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bolso-varlion-ambassadors-retro-176t0/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 171700.0,
-    "precio_final": 137360.0,
     "en_stock": true
   },
   {
@@ -3226,8 +3226,8 @@
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-wilson-padel-tour-rojo-25/",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsowilsonpadeltourrjo25_1-2cbd69149f3a4763eb17882812840329-480-0.webp",
-    "precio_origen": 205000.0,
-    "precio_final": 164000.0,
+    "precio_origen": 243999.0,
+    "precio_final": 195199.2,
     "en_stock": true
   },
   {
