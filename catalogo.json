@@ -414,6 +414,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paleta Babolat Technical Viper 3.0",
+    "categoria": "importadas",
+    "url": "https://www.metapadel.com.ar/productos/paleta-babolat-technical-viper-3-0-5r16z/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 650000.0,
+    "precio_final": 520000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paleta Nox AT10 Genius Attack 18K 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-nox-at10-genius-attack-18k-26-uwc3e/",
@@ -435,18 +444,9 @@
     "nombre": "Paleta Hirostar Redstone 26",
     "categoria": "importadas",
     "url": "https://www.metapadel.com.ar/productos/paleta-hirostar-redstone-26-1moli/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletahirostarredstone26_1-5cd84ef67c49374b5517803431626750-480-0.webp",
     "precio_origen": 542600.0,
     "precio_final": 434080.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Babolat Technical Viper 3.0",
-    "categoria": "importadas",
-    "url": "https://www.metapadel.com.ar/productos/paleta-babolat-technical-viper-3-0-5r16z/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletababolattechnicalviper3-0_1-54300d8155ba42456c17800709183685-480-0.webp",
-    "precio_origen": 650000.0,
-    "precio_final": 520000.0,
     "en_stock": true
   },
   {
