@@ -1,41 +1,5 @@
 [
   {
-    "nombre": "Paleta Urich Fusion Hard 26",
-    "categoria": "nacionales",
-    "url": "https://www.metapadel.com.ar/productos/paleta-urich-fusion-hard-26-13mrq/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaurichfusionhardt26_1-cc5094440c750ffd4a17914447025326-480-0.webp",
-    "precio_origen": 299000.0,
-    "precio_final": 239200.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Urich Kiba Flex 26",
-    "categoria": "nacionales",
-    "url": "https://www.metapadel.com.ar/productos/paleta-urich-kiba-flex-26-unqki/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paletaurichkibaflex_1-b79f44ef4ac7ca53bd17914346582913-480-0.webp",
-    "precio_origen": 369000.0,
-    "precio_final": 295200.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Urich Iron Hard 26",
-    "categoria": "nacionales",
-    "url": "https://www.metapadel.com.ar/productos/paleta-urich-iron-hard-26-ihz70/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 309600.0,
-    "precio_final": 247680.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paleta Urich Fusion Flex 26",
-    "categoria": "nacionales",
-    "url": "https://www.metapadel.com.ar/productos/paleta-urich-fusion-flex-26-17n9t/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 299000.0,
-    "precio_final": 239200.0,
-    "en_stock": false
-  },
-  {
     "nombre": "ver otros acá",
     "categoria": "nacionales",
     "url": "https://www.metapadel.com.ar/productos/",
