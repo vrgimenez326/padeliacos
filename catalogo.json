@@ -171,15 +171,6 @@
     "en_stock": true
   },
   {
-    "nombre": "Paletero Bullpadel Advance 26",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-advance-26-1kqg5/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 169000.0,
-    "precio_final": 135200.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paletero Bullpadel Xplo 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-xplo-26-118eh/",
@@ -237,7 +228,7 @@
     "nombre": "Paletero Bullpadel Vertex Geo Premier 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-geo-premier-26-in5bk/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadelvertexgeopremier26_1_negro-305782ca37e60f019917914344463306-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 280000.0,
     "precio_final": 224000.0,
     "en_stock": true
@@ -255,7 +246,7 @@
     "nombre": "Paletero Varlion Summum Pro Rojo",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-pro-rojo/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/31cc3c8d98f8d2706bf169904752611551a7a26d7e8736d84fdb1699047544414210241024-6299cc83486d2af65d17914339689588-480-0.webp",
     "precio_origen": 170000.0,
     "precio_final": 136000.0,
     "en_stock": true
@@ -345,7 +336,7 @@
     "nombre": "Paletero Nox ML10 Team",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-nox-ml10-team/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsonoxml10team_11_ngo2fclay-4f89023045476cfe9717914377046838-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 205800.0,
     "precio_final": 164640.0,
     "en_stock": true
@@ -363,7 +354,7 @@
     "nombre": "Paletero Siux Pro Tour",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-siux-pro-tour/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsopaleterosiuxprotour_9_azul-5c1dd55fe8123154ea17919087442591-480-0.webp",
     "precio_origen": 230000.0,
     "precio_final": 184000.0,
     "en_stock": true
@@ -453,7 +444,7 @@
     "nombre": "Paletero Head Pro X Padel L",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-head-pro-x-padel-l-ulov1/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoheadproxpadell_1_negro-f1633672a9b22b763517914457764999-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 339300.0,
     "precio_final": 271440.0,
     "en_stock": true
@@ -471,7 +462,7 @@
     "nombre": "Paletero Bullpadel Neuron Premier 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-neuron-premier-26-159lm/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadelneuronpremier26_1_negro-b87c2ab77a570abb6b17914517690108-480-0.webp",
     "precio_origen": 260000.0,
     "precio_final": 208000.0,
     "en_stock": true
@@ -561,7 +552,7 @@
     "nombre": "Paletero Dropshot Ambition Azul",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-ambition-azul/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsodropshotambitionazul_2-01a1ab5da4c7f9660517914417415165-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 155400.0,
     "precio_final": 124320.0,
     "en_stock": true
@@ -579,7 +570,7 @@
     "nombre": "Paletero Dropshot JMD",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-jmd/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsodropshotjmd_1-670f7d8e3c553ae8ab17914310792361-480-0.webp",
     "precio_origen": 295500.0,
     "precio_final": 236400.0,
     "en_stock": true
@@ -669,7 +660,7 @@
     "nombre": "Paletero Bullpadel Ionic 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-ionic-26-1igp8/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadelionic26_1_azulmno-6906b48f98c2fd8dd417914502524185-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 180000.0,
     "precio_final": 144000.0,
     "en_stock": true
@@ -687,7 +678,7 @@
     "nombre": "Paletero Head Retro Padel 25th",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-head-retro-padel-25th-x28do/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoheadretropadel25th_1-c482991bebf979602917914357896640-480-0.webp",
     "precio_origen": 295000.0,
     "precio_final": 236000.0,
     "en_stock": true
@@ -777,7 +768,7 @@
     "nombre": "Mochila Bullpadel Vertex 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-vertex-26-1afkg/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilabullpadelvertex26_1_negro-c5fd8a714e4e5834d317914477137203-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 190000.0,
     "precio_final": 152000.0,
     "en_stock": true
@@ -795,7 +786,7 @@
     "nombre": "Paletero Bullpadel Vertex Woman 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-woman-26-82win/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadelvertexw26_1_clte-8a9182bba9c48c3eb817914511209814-480-0.webp",
     "precio_origen": 250000.0,
     "precio_final": 200000.0,
     "en_stock": true
@@ -885,7 +876,7 @@
     "nombre": "Mochila IU ActiveAura Packable 20L Negro",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-iu-activeaura-packable-20l-negro/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilaiuactiveaurapackable20lngo_1-083d132defd2a3348917914356972257-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 43590.0,
     "precio_final": 34872.0,
     "en_stock": true
@@ -903,7 +894,7 @@
     "nombre": "Bandolera ActiveAura City 7.2L Negro",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/bandolera-activeaura-city-7-2l-negro/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bandoleraactiveauracity7-2lngo_1-3c5de1521c1db2c35217914375987029-480-0.webp",
     "precio_origen": 33900.0,
     "precio_final": 27120.0,
     "en_stock": true
@@ -993,7 +984,7 @@
     "nombre": "Paletero Sane Pro Sport Blanco",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-sane-pro-sport-blanco/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsosaneprosportblanco_1-18124aa5789b0b976317914367601257-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 204100.0,
     "precio_final": 163280.0,
     "en_stock": true
@@ -1011,7 +1002,7 @@
     "nombre": "Paletero Sane Pro Leather Marrón",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-sane-pro-leather-marron/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsosaneproleathermarron_1-c1f84f8d7a17491b3c17914368007145-480-0.webp",
     "precio_origen": 181700.0,
     "precio_final": 145360.0,
     "en_stock": true
@@ -1101,7 +1092,7 @@
     "nombre": "Paletero Dropshot NAOS Rojo",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-naos-rojo/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsodropshotnaosrojo_1-c2264fea5727a05b8317914355826768-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 180000.0,
     "precio_final": 144000.0,
     "en_stock": true
@@ -1119,7 +1110,7 @@
     "nombre": "Paletero Dropshot Be Unique Gris",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-be-unique-gris/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsodropshotbeuniquegris_1-8aaba1d49902199ebc17914310412629-480-0.webp",
     "precio_origen": 236000.0,
     "precio_final": 188800.0,
     "en_stock": true
@@ -1194,6 +1185,15 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 249900.0,
     "precio_final": 199920.0,
+    "en_stock": false
+  },
+  {
+    "nombre": "Paletero Bullpadel Advance 26",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-advance-26-1kqg5/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 169000.0,
+    "precio_final": 135200.0,
     "en_stock": false
   },
   {
