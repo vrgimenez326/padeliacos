@@ -153,6 +153,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Mochila Joma Team",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/mochila-joma-team-cd0j4/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 50900.0,
+    "precio_final": 40720.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paletero Bullpadel Xplo 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-xplo-26-118eh/",
@@ -195,15 +204,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 99000.0,
     "precio_final": 79200.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Mochila Joma Team",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-joma-team-cd0j4/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 50900.0,
-    "precio_final": 40720.0,
     "en_stock": true
   },
   {
