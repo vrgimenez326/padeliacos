@@ -162,6 +162,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paletero Bullpadel Vertex Geo Premier 26",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-geo-premier-26-in5bk/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 280000.0,
+    "precio_final": 224000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paletero Bullpadel Xplo 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-xplo-26-118eh/",
@@ -204,15 +213,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 99000.0,
     "precio_final": 79200.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paletero Bullpadel Vertex Geo Premier 26",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-geo-premier-26-in5bk/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 280000.0,
-    "precio_final": 224000.0,
     "en_stock": true
   },
   {
