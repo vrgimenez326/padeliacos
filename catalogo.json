@@ -12,7 +12,7 @@
     "nombre": "Paletero Bullpadel Tour 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-tour-26-ziq7o/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadeltour26_1_negro-7497a97775855263b117914394160281-480-0.webp",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadeltour26_11_amafluo-e96460ac3184dca1de17925041503897-480-0.webp",
     "precio_origen": 125000.0,
     "precio_final": 100000.0,
     "en_stock": true
@@ -135,21 +135,21 @@
     "en_stock": true
   },
   {
-    "nombre": "Paletero Babolat RH4 Pro Padel",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-babolat-rh4-pro-padel/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobabolatrh4propadel_4_mul-188ff99b2e9c015e2017919087355806-480-0.webp",
-    "precio_origen": 240000.0,
-    "precio_final": 192000.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paletero Pro Go Drive",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-pro-go-drive-18xgi/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoprogodrive_20_negro-ba8a2bb44bed9d02e417914508906954-480-0.webp",
     "precio_origen": 110000.0,
     "precio_final": 88000.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paletero Babolat RH4 Pro Padel",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-babolat-rh4-pro-padel/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 240000.0,
+    "precio_final": 192000.0,
     "en_stock": true
   },
   {
