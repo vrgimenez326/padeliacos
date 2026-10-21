@@ -94,8 +94,8 @@
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-adidas-protour-3-5-juusg/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 345800.0,
-    "precio_final": 276640.0,
+    "precio_origen": 318000.0,
+    "precio_final": 254400.0,
     "en_stock": true
   },
   {
@@ -153,6 +153,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Mochila Pro Go Rage",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/mochila-pro-go-rage-i6kwt/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 99000.0,
+    "precio_final": 79200.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Mochila Joma Team",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-joma-team-cd0j4/",
@@ -204,15 +213,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 229000.0,
     "precio_final": 183200.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Mochila Pro Go Rage",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-pro-go-rage-i6kwt/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 99000.0,
-    "precio_final": 79200.0,
     "en_stock": true
   },
   {
@@ -1102,8 +1102,8 @@
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-adidas-multigame-3-5-oe7nd/",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoadidasmultigame3-5_1_neg2froj-b7946a330a8bb6118b17914431248708-480-0.webp",
-    "precio_origen": 323000.0,
-    "precio_final": 258400.0,
+    "precio_origen": 289500.0,
+    "precio_final": 231600.0,
     "en_stock": false
   },
   {
@@ -1111,8 +1111,8 @@
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-adidas-protour-3-5-r7yxm/",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilaadidasprotour3-5_2_rosa-d05e0c5d6042d8d2f117914512626619-480-0.webp",
-    "precio_origen": 256500.0,
-    "precio_final": 205200.0,
+    "precio_origen": 215500.0,
+    "precio_final": 172400.0,
     "en_stock": false
   },
   {
@@ -1129,8 +1129,8 @@
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/bolso-adidas-weekend-3-5-ibi3w/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 256500.0,
-    "precio_final": 205200.0,
+    "precio_origen": 235000.0,
+    "precio_final": 188000.0,
     "en_stock": false
   },
   {
