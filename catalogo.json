@@ -1017,15 +1017,6 @@
     "en_stock": true
   },
   {
-    "nombre": "Paletero Lok Maxx",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-lok-maxx/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 232000.0,
-    "precio_final": 185600.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paletero Head Team Padel Negro/Azul",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-head-team-padel-negro-azul/",
@@ -1101,7 +1092,7 @@
     "nombre": "Paletero Adidas Multigame 3.5",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-adidas-multigame-3-5-oe7nd/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoadidasmultigame3-5_1_neg2froj-b7946a330a8bb6118b17914431248708-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 289500.0,
     "precio_final": 231600.0,
     "en_stock": false
@@ -1119,7 +1110,7 @@
     "nombre": "Mochila Bullpadel Advance 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-advance-26-12jy6/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilabullpadeladvance26_10_beig-07897ee071b256d71d17914346707163-480-0.webp",
     "precio_origen": 119000.0,
     "precio_final": 95200.0,
     "en_stock": false
@@ -1209,7 +1200,7 @@
     "nombre": "Paletero Bullpadel APA",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-apa-82fsr/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadelapa_1-8753bfb831ed98207817914346520908-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 190000.0,
     "precio_final": 152000.0,
     "en_stock": false
@@ -1227,7 +1218,7 @@
     "nombre": "Mochila Nox Pro Series Negro",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-nox-pro-series-negro/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilanoxproseriesnegro_1-36ef3e985f565caa8217914368479018-480-0.webp",
     "precio_origen": 169050.0,
     "precio_final": 135240.0,
     "en_stock": false
@@ -1317,7 +1308,7 @@
     "nombre": "Neceser Bullpadel Hack",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/neceser-bullpadel-hack-igml3/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/neceserbullpadelhackbpn26012ngo_2-65a5fd536b6853d89817914346444905-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 49000.0,
     "precio_final": 39200.0,
     "en_stock": false
@@ -1335,7 +1326,7 @@
     "nombre": "Mochila Bullpadel Neuron Premier 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-neuron-premier-26-7p27l/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilabullpadelneuronpremier26_1_negro-5edd4b81db318e2e5417914420338619-480-0.webp",
     "precio_origen": 190000.0,
     "precio_final": 152000.0,
     "en_stock": false
@@ -1374,6 +1365,15 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 156700.0,
     "precio_final": 125360.0,
+    "en_stock": false
+  },
+  {
+    "nombre": "Paletero Lok Maxx",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-lok-maxx/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 232000.0,
+    "precio_final": 185600.0,
     "en_stock": false
   }
 ]
