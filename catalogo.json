@@ -153,6 +153,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paletero Varlion Summum Cobre",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-cobre/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 120000.0,
+    "precio_final": 96000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Mochila Pro Go Rage",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-pro-go-rage-i6kwt/",
@@ -195,15 +204,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 240000.0,
     "precio_final": 192000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paletero Varlion Summum Cobre",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-cobre/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 120000.0,
-    "precio_final": 96000.0,
     "en_stock": true
   },
   {
