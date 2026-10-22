@@ -252,6 +252,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paletero Nox ML10 Team",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-nox-ml10-team/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 205800.0,
+    "precio_final": 164640.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paletero Bullpadel Hack Petroleo",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-hack-petroleo/",
@@ -312,15 +321,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 66500.0,
     "precio_final": 53200.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paletero Nox ML10 Team",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-nox-ml10-team/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 205800.0,
-    "precio_final": 164640.0,
     "en_stock": true
   },
   {
