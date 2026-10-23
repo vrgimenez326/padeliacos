@@ -81,21 +81,30 @@
     "en_stock": true
   },
   {
-    "nombre": "Paletero Bullpadel Neuron 26",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-neuron-26-1ralu/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 250000.0,
-    "precio_final": 200000.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paletero Adidas Protour 3.5",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-adidas-protour-3-5-juusg/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 318000.0,
     "precio_final": 254400.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paletero Pro Go Drive",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-pro-go-drive-18xgi/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 110000.0,
+    "precio_final": 88000.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paletero Bullpadel Neuron 26",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-neuron-26-1ralu/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 250000.0,
+    "precio_final": 200000.0,
     "en_stock": true
   },
   {
@@ -108,15 +117,6 @@
     "en_stock": true
   },
   {
-    "nombre": "Paletero Bullpadel Vertex Negro",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-negro/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 255550.0,
-    "precio_final": 204440.0,
-    "en_stock": true
-  },
-  {
     "nombre": "ver otros acá",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/",
@@ -126,21 +126,21 @@
     "en_stock": true
   },
   {
+    "nombre": "Paletero Bullpadel Vertex Negro",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-negro/",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadelvertexnegro_5-d2cedbf2d815de917317914354389150-480-0.webp",
+    "precio_origen": 255550.0,
+    "precio_final": 204440.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paletero Bullpadel Vertex Piedra",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-piedra/",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadelvertexgrisoscuro_1-d0113222b2195df2ae17914294211038-480-0.webp",
     "precio_origen": 255550.0,
     "precio_final": 204440.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paletero Pro Go Drive",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-pro-go-drive-18xgi/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoprogodrive_20_negro-ba8a2bb44bed9d02e417914508906954-480-0.webp",
-    "precio_origen": 110000.0,
-    "precio_final": 88000.0,
     "en_stock": true
   },
   {
