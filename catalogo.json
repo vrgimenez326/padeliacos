@@ -1287,15 +1287,6 @@
     "en_stock": false
   },
   {
-    "nombre": "Mochila Babolat Court Lite",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-babolat-court-lite-8trhf/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 145000.0,
-    "precio_final": 116000.0,
-    "en_stock": false
-  },
-  {
     "nombre": "Mochila Bullpadel Neuron Premier 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-neuron-premier-26-7p27l/",
@@ -1308,25 +1299,16 @@
     "nombre": "Neceser Adidas Blanco 3.5",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/neceser-adidas-blanco-3-5-6zxpj/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/neceseradidasblanco3-5_1-2664c763e58e19945917914465038710-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 66500.0,
     "precio_final": 53200.0,
-    "en_stock": false
-  },
-  {
-    "nombre": "Neceser Bullpadel Vertex Woman",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/neceser-bullpadel-vertex-woman-xgzql/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/neceserbullpadelvertexwomanbpn26003cte_1-4b8ca319f84ed04e6317914378028264-480-0.webp",
-    "precio_origen": 49000.0,
-    "precio_final": 39200.0,
     "en_stock": false
   },
   {
     "nombre": "Paletero Siux Electra Stupa 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-siux-electra-stupa-26-kyixh/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsosiuxelectrastupa2026_1-b571d0f94877024a3b17914502348416-480-0.webp",
     "precio_origen": 245000.0,
     "precio_final": 196000.0,
     "en_stock": false
@@ -1335,7 +1317,7 @@
     "nombre": "Mochila Hirostar 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-hirostar-26-1phar/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilahirostar26_1_negro-6b9674a96ead19427a17914470746047-480-0.webp",
     "precio_origen": 156700.0,
     "precio_final": 125360.0,
     "en_stock": false
