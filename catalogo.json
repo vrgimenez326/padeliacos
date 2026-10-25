@@ -1188,37 +1188,19 @@
     "en_stock": false
   },
   {
-    "nombre": "Paletero Nox Street Series Negro",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-nox-street-series-negro/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 198450.0,
-    "precio_final": 158760.0,
-    "en_stock": false
-  },
-  {
     "nombre": "Paletero Adidas Multigame 3.5",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-adidas-multigame-3-5-oe7nd/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoadidasmultigame3-5_1_neg2froj-b7946a330a8bb6118b17914431248708-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 289500.0,
     "precio_final": 231600.0,
-    "en_stock": false
-  },
-  {
-    "nombre": "Mochila Adidas Protour 3.5",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-adidas-protour-3-5-r7yxm/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilaadidasprotour3-5_2_rosa-d05e0c5d6042d8d2f117914512626619-480-0.webp",
-    "precio_origen": 215500.0,
-    "precio_final": 172400.0,
     "en_stock": false
   },
   {
     "nombre": "Bolso Adidas Weekend 3.5",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/bolso-adidas-weekend-3-5-ibi3w/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoadidasweekend3-5rosa_1-9311834fef733fe6f217914504964011-480-0.webp",
     "precio_origen": 235000.0,
     "precio_final": 188000.0,
     "en_stock": false
@@ -1227,7 +1209,7 @@
     "nombre": "Mochila Bullpadel Advance 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-advance-26-12jy6/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilabullpadeladvance26_10_beig-07897ee071b256d71d17914346707163-480-0.webp",
     "precio_origen": 119000.0,
     "precio_final": 95200.0,
     "en_stock": false
@@ -1239,15 +1221,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 274890.0,
     "precio_final": 219912.0,
-    "en_stock": false
-  },
-  {
-    "nombre": "Mochila Nox Street Negro/Gris",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-nox-street-negro-gris/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 154350.0,
-    "precio_final": 123480.0,
     "en_stock": false
   },
   {
@@ -1278,46 +1251,10 @@
     "en_stock": false
   },
   {
-    "nombre": "Paletero Bullpadel Flow 26",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-flow-26-1e575/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 220000.0,
-    "precio_final": 176000.0,
-    "en_stock": false
-  },
-  {
-    "nombre": "Mochila Nox Pro Series Camel",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-nox-pro-series-camel/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 169050.0,
-    "precio_final": 135240.0,
-    "en_stock": false
-  },
-  {
-    "nombre": "Paletero Bullpadel APA",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-apa-82fsr/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 190000.0,
-    "precio_final": 152000.0,
-    "en_stock": false
-  },
-  {
-    "nombre": "Mochila Nox Pro Series Negro",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-nox-pro-series-negro/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilanoxproseriesnegro_1-36ef3e985f565caa8217914368479018-480-0.webp",
-    "precio_origen": 169050.0,
-    "precio_final": 135240.0,
-    "en_stock": false
-  },
-  {
     "nombre": "Paletero Bullpadel Wonder 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-wonder-26-v1rxr/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadelwonder26_4_choc-53812e4c508016c1c117914322026246-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 220000.0,
     "precio_final": 176000.0,
     "en_stock": false
@@ -1326,15 +1263,6 @@
     "nombre": "Mochila Bullpadel Xplo 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-xplo-26-1pr1p/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 199000.0,
-    "precio_final": 159200.0,
-    "en_stock": false
-  },
-  {
-    "nombre": "Mochila Bullpadel Neuron 26",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-neuron-26-1ktac/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 199000.0,
     "precio_final": 159200.0,
@@ -1350,57 +1278,12 @@
     "en_stock": false
   },
   {
-    "nombre": "Paletero Bullpadel Casual 26",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-casual-26-rt8i8/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 199000.0,
-    "precio_final": 159200.0,
-    "en_stock": false
-  },
-  {
-    "nombre": "Paletero Siux Pulse",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-siux-pulse-pafd9/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 130000.0,
-    "precio_final": 104000.0,
-    "en_stock": false
-  },
-  {
     "nombre": "Paletero Adidas Tour 3.5",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-adidas-tour-3-5-kkn7j/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 275500.0,
     "precio_final": 220400.0,
-    "en_stock": false
-  },
-  {
-    "nombre": "Mochila Bullpadel Neuron Premier 26",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-neuron-premier-26-7p27l/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 190000.0,
-    "precio_final": 152000.0,
-    "en_stock": false
-  },
-  {
-    "nombre": "Paletero Siux Electra Stupa 26",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-siux-electra-stupa-26-kyixh/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 245000.0,
-    "precio_final": 196000.0,
-    "en_stock": false
-  },
-  {
-    "nombre": "Mochila Hirostar 26",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-hirostar-26-1phar/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 156700.0,
-    "precio_final": 125360.0,
     "en_stock": false
   },
   {
