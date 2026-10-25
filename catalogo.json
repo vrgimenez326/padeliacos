@@ -54,6 +54,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paletero Varlion Summum Verde",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-verde/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 150000.0,
+    "precio_final": 120000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Bolso Varlion Ambassadors Retro",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/bolso-varlion-ambassadors-retro-176t0/",
@@ -78,15 +87,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 250000.0,
     "precio_final": 200000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paletero Varlion Summum Verde",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-verde/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 150000.0,
-    "precio_final": 120000.0,
     "en_stock": true
   },
   {
