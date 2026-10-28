@@ -342,10 +342,19 @@
     "en_stock": true
   },
   {
+    "nombre": "Paletero Adidas Tour 3.5",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-adidas-tour-3-5-kkn7j/",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoadidastour3-5_2_plata-d95a0f25c04e2d3f3617914376513421-480-0.webp",
+    "precio_origen": 235000.0,
+    "precio_final": 188000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Neceser Adidas Martita Ortega 3.5",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/neceser-adidas-martita-ortega-3-5-48kc3/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/neceseradidasmartitaortega3-5_1-12755a134781d741bb17914486286318-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 66500.0,
     "precio_final": 53200.0,
     "en_stock": true
@@ -435,7 +444,7 @@
     "nombre": "Mochila Siux Edge",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-siux-edge-sgfoq/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilasiuxedge_1_vde-10febef678689f174f17914470015183-480-0.webp",
     "precio_origen": 170000.0,
     "precio_final": 136000.0,
     "en_stock": true
@@ -453,7 +462,7 @@
     "nombre": "Paletero Head Pro X Padel L",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-head-pro-x-padel-l-ulov1/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoheadproxpadell_1_negro-f1633672a9b22b763517914457764999-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 339300.0,
     "precio_final": 271440.0,
     "en_stock": true
@@ -543,7 +552,7 @@
     "nombre": "Paletero Wilson Padel Tour Rojo 25",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-wilson-padel-tour-rojo-25/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsowilsonpadeltourrjo25_1-b98df2c6221a9a7b7217914455655271-480-0.webp",
     "precio_origen": 243999.0,
     "precio_final": 195199.2,
     "en_stock": true
@@ -561,7 +570,7 @@
     "nombre": "Mochila Lok Maxx Black",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-lok-maxx-black/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilalokmaxxblack_1-932d3489fd438d339e17914405975293-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 186000.0,
     "precio_final": 148800.0,
     "en_stock": true
@@ -627,15 +636,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 295500.0,
     "precio_final": 236400.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Mochila Varlion Summum Rojo",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-varlion-summum-rojo/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 215000.0,
-    "precio_final": 172000.0,
     "en_stock": true
   },
   {
@@ -1260,21 +1260,21 @@
     "en_stock": false
   },
   {
-    "nombre": "Paletero Adidas Tour 3.5",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-adidas-tour-3-5-kkn7j/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 235000.0,
-    "precio_final": 188000.0,
-    "en_stock": false
-  },
-  {
     "nombre": "Mochila Bullpadel Hack 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-hack-26-8tjmw/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 199000.0,
     "precio_final": 159200.0,
+    "en_stock": false
+  },
+  {
+    "nombre": "Mochila Varlion Summum Rojo",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/mochila-varlion-summum-rojo/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 215000.0,
+    "precio_final": 172000.0,
     "en_stock": false
   },
   {
