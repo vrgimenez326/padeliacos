@@ -117,6 +117,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Mochila Pro Go Rage",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/mochila-pro-go-rage-i6kwt/",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilaprogorage_1_blco2fngo-82ed281a803809d7de17914464262455-480-0.webp",
+    "precio_origen": 99000.0,
+    "precio_final": 79200.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paletero Pro Go Drive",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-pro-go-drive-18xgi/",
@@ -129,7 +138,7 @@
     "nombre": "Paletero Bullpadel Neuron 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-neuron-26-1ralu/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadelneuron26_1_grisosc-b1cd31e4f82af2ef6417914503148346-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 250000.0,
     "precio_final": 200000.0,
     "en_stock": true
@@ -159,15 +168,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 255550.0,
     "precio_final": 204440.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Mochila Pro Go Rage",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-pro-go-rage-i6kwt/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 99000.0,
-    "precio_final": 79200.0,
     "en_stock": true
   },
   {
