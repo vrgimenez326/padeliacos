@@ -270,6 +270,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Mochila Bullpadel Vertex Woman 26",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-vertex-woman-26-6hhtm/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 190000.0,
+    "precio_final": 152000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Mochila Bullpadel Vertex Geo 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-vertex-geo-26-jx5d9/",
@@ -327,18 +336,9 @@
     "nombre": "Paletero Bullpadel Elite 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-elite-26-73ibl/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadelelite26_4_bco-8ee6350417d5ad50ff17914322024959-480-0.webp",
     "precio_origen": 220000.0,
     "precio_final": 176000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Mochila Bullpadel Vertex Woman 26",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-vertex-woman-26-6hhtm/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilabullpadelvertexw26_1_bco-32097361c1f50b5f6817914532899959-480-0.webp",
-    "precio_origen": 190000.0,
-    "precio_final": 152000.0,
     "en_stock": true
   },
   {
