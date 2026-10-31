@@ -1287,15 +1287,6 @@
     "en_stock": false
   },
   {
-    "nombre": "Paletero Nox AT10 Competition Trolley Verde",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-nox-at10-competition-trolley-verde/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 249900.0,
-    "precio_final": 199920.0,
-    "en_stock": false
-  },
-  {
     "nombre": "Paletero Bullpadel Advance 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-advance-26-1kqg5/",
@@ -1308,7 +1299,7 @@
     "nombre": "Mochila Bullpadel Vertex Geo Premier 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-vertex-geo-premier-26-8cxyl/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilabullpadelvertexgeopremier26_1_negro-9e69d2e86501159b6317914508689864-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 189000.0,
     "precio_final": 151200.0,
     "en_stock": false
@@ -1326,7 +1317,7 @@
     "nombre": "Mochila Bullpadel Xplo 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-xplo-26-1pr1p/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilabullpadelxplo26_1_negro-10ea6a74b441b679e417914532427742-480-0.webp",
     "precio_origen": 199000.0,
     "precio_final": 159200.0,
     "en_stock": false
