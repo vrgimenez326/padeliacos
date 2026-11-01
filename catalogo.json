@@ -99,12 +99,12 @@
     "en_stock": true
   },
   {
-    "nombre": "Bolso Adidas Weekend 3.5",
+    "nombre": "Paletero Pro Go Drive",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bolso-adidas-weekend-3-5-ibi3w/",
+    "url": "https://www.metapadel.com.ar/productos/paletero-pro-go-drive-18xgi/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 235000.0,
-    "precio_final": 188000.0,
+    "precio_origen": 77000.0,
+    "precio_final": 61600.0,
     "en_stock": true
   },
   {
@@ -114,6 +114,15 @@
     "imagen": "",
     "precio_origen": 300000.0,
     "precio_final": 240000.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Bolso Adidas Weekend 3.5",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/bolso-adidas-weekend-3-5-ibi3w/",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoadidasweekend3-5rosa_1-9311834fef733fe6f217914504964011-480-0.webp",
+    "precio_origen": 235000.0,
+    "precio_final": 188000.0,
     "en_stock": true
   },
   {
@@ -129,7 +138,7 @@
     "nombre": "Paletero Adidas Protour 3.5 Rosa",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-adidas-protour-3-5-rosa-o6yoq/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoadidasprotour3-5_2_rosa-3104eaf9b05c2ae41917914463372965-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 318000.0,
     "precio_final": 254400.0,
     "en_stock": true
@@ -141,15 +150,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 256500.0,
     "precio_final": 205200.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paletero Pro Go Drive",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-pro-go-drive-18xgi/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 77000.0,
-    "precio_final": 61600.0,
     "en_stock": true
   },
   {
@@ -414,6 +414,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paletero Odpro Classic",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-odpro-classic-ejbl8/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 105000.0,
+    "precio_final": 84000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paletero Odpro Bigger",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-odpro-bigger-gzvvt/",
@@ -435,7 +444,7 @@
     "nombre": "Neceser Bullpadel Vertex Geo",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/neceser-bullpadel-vertex-geo-1ovfc/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/neceserbullpadelvertexgeobpn26002azulintenso_2-43e7dd04ac20a6255c17914476181895-480-0.webp",
     "precio_origen": 49000.0,
     "precio_final": 39200.0,
     "en_stock": true
@@ -453,7 +462,7 @@
     "nombre": "Mochila Head Coello Pro X Padel 30L",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-head-coello-pro-x-padel-30l-1kplz/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilaheadcoelloproxpadel30l_1_negro-f44683c5474af1433b17914322329323-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 308000.0,
     "precio_final": 246400.0,
     "en_stock": true
@@ -543,7 +552,7 @@
     "nombre": "Paletero Wilson Padel Tour Rojo 25",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-wilson-padel-tour-rojo-25/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsowilsonpadeltourrjo25_1-b98df2c6221a9a7b7217914455655271-480-0.webp",
     "precio_origen": 243999.0,
     "precio_final": 195199.2,
     "en_stock": true
@@ -561,7 +570,7 @@
     "nombre": "Mochila Sane Vintage Blanca",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-sane-vintage-blanca/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilasanevintageblanca_1-c6112922eb4f5876b317914293184332-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 51300.0,
     "precio_final": 41040.0,
     "en_stock": true
@@ -651,7 +660,7 @@
     "nombre": "Paletero Varlion Summum Pro Violeta",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-pro-violeta/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/3cbd2f59f8e3092889f1699047610960610241024-ad57aac9c57229df6d17914328859086-480-0.webp",
     "precio_origen": 170000.0,
     "precio_final": 136000.0,
     "en_stock": true
@@ -669,7 +678,7 @@
     "nombre": "Mochila Adidas Promatch",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-adidas-promatch-1t09f/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilaadidaspromatcharisanchez_1-92fc0042f18a604e6117933196855689-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 195000.0,
     "precio_final": 156000.0,
     "en_stock": true
@@ -708,15 +717,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 285000.0,
     "precio_final": 228000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paletero Odpro Classic",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-odpro-classic-ejbl8/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 105000.0,
-    "precio_final": 84000.0,
     "en_stock": true
   },
   {
