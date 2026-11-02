@@ -36,6 +36,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paletero Pro Go Drive",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-pro-go-drive-18xgi/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 77000.0,
+    "precio_final": 61600.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paletero Adidas Multigame 3.5",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-adidas-multigame-3-5-oe7nd/",
@@ -51,15 +60,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 150000.0,
     "precio_final": 120000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paletero Pro Go Drive",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-pro-go-drive-18xgi/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 77000.0,
-    "precio_final": 61600.0,
     "en_stock": true
   },
   {
