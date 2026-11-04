@@ -9,21 +9,21 @@
     "en_stock": true
   },
   {
-    "nombre": "Paletero Joma Torneo Negro",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-joma-torneo-negro/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsopaleterojomatorneongo_1-628aa66eea03ad0ea517914490380062-480-0.webp",
-    "precio_origen": 118900.0,
-    "precio_final": 95120.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paletero Pro Go Drive",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-pro-go-drive-18xgi/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoprogodrive_20_negro-ba8a2bb44bed9d02e417914508906954-480-0.webp",
     "precio_origen": 77000.0,
     "precio_final": 61600.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paletero Joma Torneo Negro",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-joma-torneo-negro/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 118900.0,
+    "precio_final": 95120.0,
     "en_stock": true
   },
   {
@@ -45,21 +45,21 @@
     "en_stock": true
   },
   {
-    "nombre": "Paletero Adidas Multigame 3.5",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-adidas-multigame-3-5-oe7nd/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 289500.0,
-    "precio_final": 231600.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Mochila Pro Go Rage",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-pro-go-rage-i6kwt/",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 69300.0,
     "precio_final": 55440.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paletero Adidas Multigame 3.5",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-adidas-multigame-3-5-oe7nd/",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 289500.0,
+    "precio_final": 231600.0,
     "en_stock": true
   },
   {
@@ -225,6 +225,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Paletero Pro Go Rage",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-pro-go-rage-c27pt/",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoprogorage_24_vde-35812025a2e38ea41317914449692707-480-0.webp",
+    "precio_origen": 130200.0,
+    "precio_final": 104160.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paletero Bullpadel Xplo 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-xplo-26-118eh/",
@@ -237,7 +246,7 @@
     "nombre": "Mochila Bullpadel Tech Negro",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-tech-negro/",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilabullpadeltechngo_1-c5f433c11e53bb07db17914382667730-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 240000.0,
     "precio_final": 192000.0,
     "en_stock": true
@@ -249,15 +258,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 229000.0,
     "precio_final": 183200.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paletero Pro Go Rage",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-pro-go-rage-c27pt/",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 130200.0,
-    "precio_final": 104160.0,
     "en_stock": true
   },
   {
