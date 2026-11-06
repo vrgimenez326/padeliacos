@@ -1,20 +1,20 @@
 [
   {
-    "nombre": "Paletero Bullpadel Tour 26",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-tour-26-ziq7o/?entry_path=category",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadeltour26_11_amafluo-e96460ac3184dca1de17925041503897-480-0.webp",
-    "precio_origen": 125000.0,
-    "precio_final": 100000.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paletero Pro Go Drive",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-pro-go-drive-18xgi/?entry_path=category",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoprogodrive_20_negro-ba8a2bb44bed9d02e417914508906954-480-0.webp",
     "precio_origen": 77000.0,
     "precio_final": 61600.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paletero Bullpadel Tour 26",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-tour-26-ziq7o/?entry_path=category",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadeltour26_11_amafluo-e96460ac3184dca1de17925041503897-480-0.webp",
+    "precio_origen": 125000.0,
+    "precio_final": 100000.0,
     "en_stock": true
   },
   {
