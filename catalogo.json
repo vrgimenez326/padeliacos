@@ -27,6 +27,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Mochila Pro Go Rage",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/mochila-pro-go-rage-i6kwt/?entry_path=category",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 69300.0,
+    "precio_final": 55440.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paletero Varlion Ergonomic Begins",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-varlion-ergonomic-begins-2hska/?entry_path=category",
@@ -42,15 +51,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 169500.0,
     "precio_final": 135600.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Mochila Pro Go Rage",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-pro-go-rage-i6kwt/?entry_path=category",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 69300.0,
-    "precio_final": 55440.0,
     "en_stock": true
   },
   {
