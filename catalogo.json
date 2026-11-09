@@ -63,6 +63,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Bolso Adidas Weekend 3.5",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/bolso-adidas-weekend-3-5-ibi3w/?entry_path=category",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 235000.0,
+    "precio_final": 188000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Mochila Adidas Protour 3.5",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-adidas-protour-3-5-r7yxm/?entry_path=category",
@@ -78,15 +87,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 150000.0,
     "precio_final": 120000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Bolso Adidas Weekend 3.5",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bolso-adidas-weekend-3-5-ibi3w/?entry_path=category",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 235000.0,
-    "precio_final": 188000.0,
     "en_stock": true
   },
   {
@@ -297,6 +297,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Neceser Adidas Martita Ortega 3.5",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/neceser-adidas-martita-ortega-3-5-48kc3/?entry_path=category",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 66500.0,
+    "precio_final": 53200.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Bolso Adidas Tour Zidane",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/bolso-adidas-tour-zidane-1eg3s/?entry_path=category",
@@ -327,7 +336,7 @@
     "nombre": "Mochila Hirostar Alien by Tolito Aguirre",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-hirostar-alien-by-tolito-aguirre-15lq2/?entry_path=category",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilahirostaralienbytolitoaguirre_1_azul-e3f0065aa6c51bd17e17914494359566-480-0.webp",
     "precio_origen": 156700.0,
     "precio_final": 125360.0,
     "en_stock": true
@@ -345,18 +354,9 @@
     "nombre": "Paletero Adidas Tour 3.5",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-adidas-tour-3-5-kkn7j/?entry_path=category",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoadidastour3-5_2_plata-d95a0f25c04e2d3f3617914376513421-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 235000.0,
     "precio_final": 188000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Neceser Adidas Martita Ortega 3.5",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/neceser-adidas-martita-ortega-3-5-48kc3/?entry_path=category",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 66500.0,
-    "precio_final": 53200.0,
     "en_stock": true
   },
   {
