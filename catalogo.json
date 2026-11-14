@@ -180,21 +180,21 @@
     "en_stock": true
   },
   {
-    "nombre": "Paletero Bullpadel Vertex Negro",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-negro/?entry_path=category",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 255550.0,
-    "precio_final": 204440.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paletero Pro Go Rage",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-pro-go-rage-c27pt/?entry_path=category",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 186000.0,
     "precio_final": 148800.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paletero Bullpadel Vertex Negro",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-negro/?entry_path=category",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 255550.0,
+    "precio_final": 204440.0,
     "en_stock": true
   },
   {
