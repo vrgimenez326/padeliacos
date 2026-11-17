@@ -2,7 +2,7 @@
   {
     "nombre": "Paletero Pro Go Drive",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-pro-go-drive-18xgi/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-pro-go-drive-18xgi/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoprogodrive_20_negro-ba8a2bb44bed9d02e417914508906954-480-0.webp",
     "precio_origen": 110000.0,
     "precio_final": 88000.0,
@@ -11,7 +11,7 @@
   {
     "nombre": "Paletero Bullpadel Tour 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-tour-26-ziq7o/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-tour-26-ziq7o/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadeltour26_11_amafluo-e96460ac3184dca1de17925041503897-480-0.webp",
     "precio_origen": 125000.0,
     "precio_final": 100000.0,
@@ -20,7 +20,7 @@
   {
     "nombre": "Paletero Joma Torneo Negro",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-joma-torneo-negro/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-joma-torneo-negro/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 118900.0,
     "precio_final": 95120.0,
@@ -29,7 +29,7 @@
   {
     "nombre": "Mochila Pro Go Rage",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-pro-go-rage-i6kwt/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-pro-go-rage-i6kwt/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 99000.0,
     "precio_final": 79200.0,
@@ -38,7 +38,7 @@
   {
     "nombre": "Paletero Adidas CTRL 3.5",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-adidas-ctrl-3-5-7gyue/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-adidas-ctrl-3-5-7gyue/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 169500.0,
     "precio_final": 135600.0,
@@ -47,7 +47,7 @@
   {
     "nombre": "Paletero Adidas Multigame 3.5",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-adidas-multigame-3-5-oe7nd/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-adidas-multigame-3-5-oe7nd/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 289500.0,
     "precio_final": 231600.0,
@@ -56,7 +56,7 @@
   {
     "nombre": "Paletero Varlion Ergonomic Begins",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-ergonomic-begins-2hska/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-ergonomic-begins-2hska/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 115000.0,
     "precio_final": 92000.0,
@@ -65,16 +65,25 @@
   {
     "nombre": "Mochila Adidas Protour 3.5",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-adidas-protour-3-5-r7yxm/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-adidas-protour-3-5-r7yxm/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 215500.0,
     "precio_final": 172400.0,
     "en_stock": true
   },
   {
+    "nombre": "Paletero Varlion Summum Verde",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-verde/?entry_path=category&entry_category_id=20865461",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 150000.0,
+    "precio_final": 120000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paletero Varlion Summum Marino",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-marino/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-marino/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 150000.0,
     "precio_final": 120000.0,
@@ -83,7 +92,7 @@
   {
     "nombre": "Bolso Adidas Weekend 3.5",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bolso-adidas-weekend-3-5-ibi3w/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/bolso-adidas-weekend-3-5-ibi3w/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 235000.0,
     "precio_final": 188000.0,
@@ -92,19 +101,10 @@
   {
     "nombre": "Mochila Joma Open Gris",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-joma-open-gris/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-joma-open-gris/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 74900.0,
     "precio_final": 59920.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paletero Varlion Summum Verde",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-verde/?entry_path=category",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 150000.0,
-    "precio_final": 120000.0,
     "en_stock": true
   },
   {
@@ -119,7 +119,7 @@
   {
     "nombre": "Bolso Varlion Ambassadors Retro",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bolso-varlion-ambassadors-retro-176t0/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/bolso-varlion-ambassadors-retro-176t0/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsovarlionambassadorsretrow_8_negro-5bd5d52af2476f0dbb17914486177561-480-0.webp",
     "precio_origen": 171700.0,
     "precio_final": 137360.0,
@@ -128,7 +128,7 @@
   {
     "nombre": "Paletero Babolat RH4 Juan Lebron",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-babolat-rh4-juan-lebron/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-babolat-rh4-juan-lebron/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobabolatrhjuanlebronngo2frjo_1-51ccd18476d914516817914382230976-480-0.webp",
     "precio_origen": 250000.0,
     "precio_final": 200000.0,
@@ -137,16 +137,25 @@
   {
     "nombre": "Paletero Varlion Summum Cobre",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-cobre/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-cobre/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 120000.0,
     "precio_final": 96000.0,
     "en_stock": true
   },
   {
+    "nombre": "Paletero Pro Go Rage",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-pro-go-rage-c27pt/?entry_path=category&entry_category_id=20865461",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 186000.0,
+    "precio_final": 148800.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Paletero Bullpadel Neuron 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-neuron-26-1ralu/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-neuron-26-1ralu/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 250000.0,
     "precio_final": 200000.0,
@@ -155,7 +164,7 @@
   {
     "nombre": "Paletero Adidas Protour 3.5 Rosa",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-adidas-protour-3-5-rosa-o6yoq/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-adidas-protour-3-5-rosa-o6yoq/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 318000.0,
     "precio_final": 254400.0,
@@ -164,7 +173,7 @@
   {
     "nombre": "Mochila Adidas Multigame 3.5",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-adidas-multigame-3-5-k9d3z/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-adidas-multigame-3-5-k9d3z/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 256500.0,
     "precio_final": 205200.0,
@@ -173,25 +182,16 @@
   {
     "nombre": "Paletero Bullpadel Vertex Piedra",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-piedra/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-piedra/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 255550.0,
     "precio_final": 204440.0,
     "en_stock": true
   },
   {
-    "nombre": "Paletero Pro Go Rage",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-pro-go-rage-c27pt/?entry_path=category",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 186000.0,
-    "precio_final": 148800.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paletero Bullpadel Vertex Negro",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-negro/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-negro/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 255550.0,
     "precio_final": 204440.0,
@@ -200,7 +200,7 @@
   {
     "nombre": "Paletero Bullpadel Vertex Geo Premier 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-geo-premier-26-in5bk/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-geo-premier-26-in5bk/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 280000.0,
     "precio_final": 224000.0,
@@ -209,7 +209,7 @@
   {
     "nombre": "Paletero Babolat RH4 Pro Padel",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-babolat-rh4-pro-padel/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-babolat-rh4-pro-padel/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 240000.0,
     "precio_final": 192000.0,
@@ -218,7 +218,7 @@
   {
     "nombre": "Mochila Varlion Ambassadors Mike Yanguas",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-varlion-ambassadors-mike-yanguas/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-varlion-ambassadors-mike-yanguas/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 215000.0,
     "precio_final": 172000.0,
@@ -227,7 +227,7 @@
   {
     "nombre": "Mochila Adidas Promatch",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-adidas-promatch-1t09f/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-adidas-promatch-1t09f/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilaadidaspromatcharisanchez_1-92fc0042f18a604e6117933196855689-480-0.webp",
     "precio_origen": 195000.0,
     "precio_final": 156000.0,
@@ -236,7 +236,7 @@
   {
     "nombre": "Paletero Bullpadel Xplo 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-xplo-26-118eh/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-xplo-26-118eh/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadelxplo26_4_gris-9501628b54e730327217914377178697-480-0.webp",
     "precio_origen": 199000.0,
     "precio_final": 159200.0,
@@ -245,7 +245,7 @@
   {
     "nombre": "Mochila Bullpadel Tech Negro",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-tech-negro/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-tech-negro/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 240000.0,
     "precio_final": 192000.0,
@@ -254,7 +254,7 @@
   {
     "nombre": "Paletero Varlion Ambassadors Mike Yanguas",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-ambassadors-mike-yanguas/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-ambassadors-mike-yanguas/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 229000.0,
     "precio_final": 183200.0,
@@ -263,7 +263,7 @@
   {
     "nombre": "Paletero Bullpadel Hack 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-hack-26-1gg49/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-hack-26-1gg49/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 274900.0,
     "precio_final": 219920.0,
@@ -272,7 +272,7 @@
   {
     "nombre": "Paletero Nox ML10 Team",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-nox-ml10-team/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-nox-ml10-team/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 205800.0,
     "precio_final": 164640.0,
@@ -281,7 +281,7 @@
   {
     "nombre": "Paletero Varlion Summum Violeta",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-violeta/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-violeta/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 150000.0,
     "precio_final": 120000.0,
@@ -290,7 +290,7 @@
   {
     "nombre": "Paletero Varlion Summum Pro Rojo",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-pro-rojo/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-pro-rojo/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 170000.0,
     "precio_final": 136000.0,
@@ -299,7 +299,7 @@
   {
     "nombre": "Paletero Odpro Classic",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-odpro-classic-ejbl8/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-odpro-classic-ejbl8/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 105000.0,
     "precio_final": 84000.0,
@@ -308,7 +308,7 @@
   {
     "nombre": "Paletero Bullpadel Elite 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-elite-26-73ibl/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-elite-26-73ibl/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 220000.0,
     "precio_final": 176000.0,
@@ -317,7 +317,7 @@
   {
     "nombre": "Neceser Adidas Martita Ortega 3.5",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/neceser-adidas-martita-ortega-3-5-48kc3/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/neceser-adidas-martita-ortega-3-5-48kc3/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 66500.0,
     "precio_final": 53200.0,
@@ -326,7 +326,7 @@
   {
     "nombre": "Paletero Varlion Summum Pro Cobre",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-pro-cobre/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-pro-cobre/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 170000.0,
     "precio_final": 136000.0,
@@ -335,7 +335,7 @@
   {
     "nombre": "Bolso Adidas Tour Zidane",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bolso-adidas-tour-zidane-1eg3s/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/bolso-adidas-tour-zidane-1eg3s/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoadidastourzidane_1-d80474bfef9164218b17933062559017-480-0.webp",
     "precio_origen": 285000.0,
     "precio_final": 228000.0,
@@ -344,7 +344,7 @@
   {
     "nombre": "Mochila Bullpadel Tech 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-tech-26-rzltw/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-tech-26-rzltw/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilabullpadeltech26_1_negro-5dc6a517f9ca2aa2e217914431214029-480-0.webp",
     "precio_origen": 240000.0,
     "precio_final": 192000.0,
@@ -353,7 +353,7 @@
   {
     "nombre": "Mochila Hirostar Alien by Tolito Aguirre",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-hirostar-alien-by-tolito-aguirre-15lq2/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-hirostar-alien-by-tolito-aguirre-15lq2/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 156700.0,
     "precio_final": 125360.0,
@@ -362,7 +362,7 @@
   {
     "nombre": "Paletero Bullpadel Vertex Woman Premier 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-woman-premier-26-1beb8/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-woman-premier-26-1beb8/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 280000.0,
     "precio_final": 224000.0,
@@ -371,7 +371,7 @@
   {
     "nombre": "Paletero Adidas Tour 3.5",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-adidas-tour-3-5-kkn7j/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-adidas-tour-3-5-kkn7j/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 235000.0,
     "precio_final": 188000.0,
@@ -380,7 +380,7 @@
   {
     "nombre": "Paletero Siux Stupa",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-siux-stupa/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-siux-stupa/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 245000.0,
     "precio_final": 196000.0,
@@ -389,7 +389,7 @@
   {
     "nombre": "Paletero Siux Pro Tour",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-siux-pro-tour/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-siux-pro-tour/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 230000.0,
     "precio_final": 184000.0,
@@ -398,7 +398,7 @@
   {
     "nombre": "Bolso Babolat RH2 Court S",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bolso-babolat-rh2-court-s/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/bolso-babolat-rh2-court-s/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 219000.0,
     "precio_final": 175200.0,
@@ -407,7 +407,7 @@
   {
     "nombre": "Mochila Sane Practice Coral",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-sane-practice-coral/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-sane-practice-coral/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 89355.0,
     "precio_final": 71484.0,
@@ -416,7 +416,7 @@
   {
     "nombre": "Paletero Snauwaert Bordo",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-snauwaert-bordo/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-snauwaert-bordo/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 89200.0,
     "precio_final": 71360.0,
@@ -425,7 +425,7 @@
   {
     "nombre": "Paletero Wilson Super Tour Rojo",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-wilson-super-tour-rojo/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-wilson-super-tour-rojo/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 191000.0,
     "precio_final": 152800.0,
@@ -434,7 +434,7 @@
   {
     "nombre": "Bolso Bullpadel Next Bag Naranja",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bolso-bullpadel-next-bag-naranja/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/bolso-bullpadel-next-bag-naranja/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 190000.0,
     "precio_final": 152000.0,
@@ -443,7 +443,7 @@
   {
     "nombre": "Paletero Odpro Bigger",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-odpro-bigger-gzvvt/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-odpro-bigger-gzvvt/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsopaleteroodprobigger_1_amarillo-299387ec92747256aa17914507158257-480-0.webp",
     "precio_origen": 123600.0,
     "precio_final": 98880.0,
@@ -452,7 +452,7 @@
   {
     "nombre": "Neceser Bullpadel Vertex Geo",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/neceser-bullpadel-vertex-geo-1ovfc/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/neceser-bullpadel-vertex-geo-1ovfc/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/neceserbullpadelvertexgeobpn26002azulintenso_2-43e7dd04ac20a6255c17914476181895-480-0.webp",
     "precio_origen": 49000.0,
     "precio_final": 39200.0,
@@ -461,7 +461,7 @@
   {
     "nombre": "Mochila Siux Edge",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-siux-edge-sgfoq/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-siux-edge-sgfoq/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 170000.0,
     "precio_final": 136000.0,
@@ -470,7 +470,7 @@
   {
     "nombre": "Paletero Siux Tour",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-siux-tour-1sh7u/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-siux-tour-1sh7u/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 240000.0,
     "precio_final": 192000.0,
@@ -479,7 +479,7 @@
   {
     "nombre": "Mochila Head Coello Pro X Padel 30L",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-head-coello-pro-x-padel-30l-1kplz/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-head-coello-pro-x-padel-30l-1kplz/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 308000.0,
     "precio_final": 246400.0,
@@ -488,7 +488,7 @@
   {
     "nombre": "Paletero Head Pro X Padel L",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-head-pro-x-padel-l-ulov1/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-head-pro-x-padel-l-ulov1/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 339300.0,
     "precio_final": 271440.0,
@@ -497,7 +497,7 @@
   {
     "nombre": "Paletero Bullpadel Hack Premier 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-hack-premier-26-1l5u8/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-hack-premier-26-1l5u8/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 280000.0,
     "precio_final": 224000.0,
@@ -506,7 +506,7 @@
   {
     "nombre": "Paletero Bullpadel Neuron Premier 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-neuron-premier-26-159lm/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-neuron-premier-26-159lm/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 260000.0,
     "precio_final": 208000.0,
@@ -515,7 +515,7 @@
   {
     "nombre": "Paletero Bullpadel Vertex Geo 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-geo-26-t7kfo/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-geo-26-t7kfo/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 269000.0,
     "precio_final": 215200.0,
@@ -524,7 +524,7 @@
   {
     "nombre": "Paletero Babolat RH4 Pro Juan Lebron 2nd Gen",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-babolat-rh4-pro-juan-lebron-2nd-gen-1kp46/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-babolat-rh4-pro-juan-lebron-2nd-gen-1kp46/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 299000.0,
     "precio_final": 239200.0,
@@ -533,7 +533,7 @@
   {
     "nombre": "Monedero Adidas Negro 3.5",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/monedero-adidas-negro-3-5-du758/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/monedero-adidas-negro-3-5-du758/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 33250.0,
     "precio_final": 26600.0,
@@ -542,7 +542,7 @@
   {
     "nombre": "Mochila Bullpadel APA",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-apa-8fyoh/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-apa-8fyoh/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 160000.0,
     "precio_final": 128000.0,
@@ -551,7 +551,7 @@
   {
     "nombre": "Bolso Siux The Queen",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bolso-siux-the-queen/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/bolso-siux-the-queen/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsosiuxthequeen_1-eb933ab4fa2e8702d117914504075284-480-0.webp",
     "precio_origen": 165000.0,
     "precio_final": 132000.0,
@@ -560,7 +560,7 @@
   {
     "nombre": "Paletero Babolat RH Pro Juan Lebron",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-babolat-rh-pro-juan-lebron/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-babolat-rh-pro-juan-lebron/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobabolatrhprojuanlebron_1-65998baa20abc8281817914296373314-480-0.webp",
     "precio_origen": 275000.0,
     "precio_final": 220000.0,
@@ -569,7 +569,7 @@
   {
     "nombre": "Mochila Wilson Padel Tour Rojo 25",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-wilson-padel-tour-rojo-25/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-wilson-padel-tour-rojo-25/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 184999.0,
     "precio_final": 147999.2,
@@ -578,7 +578,7 @@
   {
     "nombre": "Paletero Wilson Padel Tour Rojo 25",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-wilson-padel-tour-rojo-25/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-wilson-padel-tour-rojo-25/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 243999.0,
     "precio_final": 195199.2,
@@ -587,7 +587,7 @@
   {
     "nombre": "Mochila Sane Practice Blanco",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-sane-practice-blanco/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-sane-practice-blanco/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 89355.0,
     "precio_final": 71484.0,
@@ -596,7 +596,7 @@
   {
     "nombre": "Mochila Sane Vintage Blanca",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-sane-vintage-blanca/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-sane-vintage-blanca/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 60375.0,
     "precio_final": 48300.0,
@@ -605,7 +605,7 @@
   {
     "nombre": "Paletero Varlion Ambassadors Marron",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-ambassadors-marron/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-ambassadors-marron/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 229000.0,
     "precio_final": 183200.0,
@@ -614,7 +614,7 @@
   {
     "nombre": "Mochila Lok Maxx Black",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-lok-maxx-black/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-lok-maxx-black/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 186000.0,
     "precio_final": 148800.0,
@@ -623,7 +623,7 @@
   {
     "nombre": "Paletero Lok One Dna",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-lok-one-dna/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-lok-one-dna/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 106000.0,
     "precio_final": 84800.0,
@@ -632,7 +632,7 @@
   {
     "nombre": "Paletero Head Team Padel Negro/Azul",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-head-team-padel-negro-azul/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-head-team-padel-negro-azul/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 154000.0,
     "precio_final": 123200.0,
@@ -641,7 +641,7 @@
   {
     "nombre": "Paletero Head Tour Padel L Negro",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-head-tour-padel-l-negro-tfg0d/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-head-tour-padel-l-negro-tfg0d/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 277300.0,
     "precio_final": 221840.0,
@@ -650,7 +650,7 @@
   {
     "nombre": "Paletero Dropshot Ambition Azul",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-ambition-azul/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-ambition-azul/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 124300.0,
     "precio_final": 99440.0,
@@ -659,7 +659,7 @@
   {
     "nombre": "Paletero Dropshot Ambition Rojo",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-ambition-rojo/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-ambition-rojo/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsodropshotambitionrojo_1-4c9725891d5872bd2317914356050583-480-0.webp",
     "precio_origen": 124300.0,
     "precio_final": 99440.0,
@@ -668,7 +668,7 @@
   {
     "nombre": "Paletero Dropshot Be Unique Rosa",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-be-unique-rosa/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-be-unique-rosa/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsodropshotbeuniquerosa_1-98c809ce5df86638a617914373585284-480-0.webp",
     "precio_origen": 188800.0,
     "precio_final": 151040.0,
@@ -677,7 +677,7 @@
   {
     "nombre": "Paletero Dropshot JMD",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-jmd/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-jmd/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 236400.0,
     "precio_final": 189120.0,
@@ -686,7 +686,7 @@
   {
     "nombre": "Paletero Varlion Summum Pro Violeta",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-pro-violeta/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-pro-violeta/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 170000.0,
     "precio_final": 136000.0,
@@ -695,7 +695,7 @@
   {
     "nombre": "Mochila Sane Everyday Verde",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-sane-everyday-verde-15awp/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-sane-everyday-verde-15awp/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 74865.0,
     "precio_final": 59892.0,
@@ -704,7 +704,7 @@
   {
     "nombre": "Bolso Adidas Promatch",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bolso-adidas-promatch-zq388/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/bolso-adidas-promatch-zq388/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 178500.0,
     "precio_final": 142800.0,
@@ -713,7 +713,7 @@
   {
     "nombre": "Paletero Adidas Protour 3.5 Azul",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-adidas-protour-3-5-azul-1cbzr/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-adidas-protour-3-5-azul-1cbzr/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 299900.0,
     "precio_final": 239920.0,
@@ -722,7 +722,7 @@
   {
     "nombre": "Neceser Bullpadel Elite",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/neceser-bullpadel-elite-w6rbn/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/neceser-bullpadel-elite-w6rbn/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 49000.0,
     "precio_final": 39200.0,
@@ -731,7 +731,7 @@
   {
     "nombre": "Neceser Bullpadel Vertex",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/neceser-bullpadel-vertex-1d645/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/neceser-bullpadel-vertex-1d645/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 49000.0,
     "precio_final": 39200.0,
@@ -740,7 +740,7 @@
   {
     "nombre": "Bolso Bullpadel W",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bolso-bullpadel-w-1y73c/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/bolso-bullpadel-w-1y73c/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 130000.0,
     "precio_final": 104000.0,
@@ -749,7 +749,7 @@
   {
     "nombre": "Paletero Babolat RH4 Pro Padel Technical",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-babolat-rh4-pro-padel-technical-17npc/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-babolat-rh4-pro-padel-technical-17npc/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 240000.0,
     "precio_final": 192000.0,
@@ -758,7 +758,7 @@
   {
     "nombre": "Paletero Head Retro Padel 25th",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-head-retro-padel-25th-x28do/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-head-retro-padel-25th-x28do/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 295000.0,
     "precio_final": 236000.0,
@@ -767,7 +767,7 @@
   {
     "nombre": "Mochila Siux Nomad",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-siux-nomad-rgyao/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-siux-nomad-rgyao/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilasiuxnomad_1-c81f624eac21f4108317914504352555-480-0.webp",
     "precio_origen": 170000.0,
     "precio_final": 136000.0,
@@ -776,7 +776,7 @@
   {
     "nombre": "Mochila Siux Street",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-siux-street-3nki5/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-siux-street-3nki5/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilasiuxstreet_1_negro-f8abe3a3b92977f72c17914470037026-480-0.webp",
     "precio_origen": 95000.0,
     "precio_final": 76000.0,
@@ -785,7 +785,7 @@
   {
     "nombre": "Bolso Siux The King 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bolso-siux-the-king-26-qgvva/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/bolso-siux-the-king-26-qgvva/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 140000.0,
     "precio_final": 112000.0,
@@ -794,7 +794,7 @@
   {
     "nombre": "Bolso Siux The Queen 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bolso-siux-the-queen-26-1rabd/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/bolso-siux-the-queen-26-1rabd/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 160000.0,
     "precio_final": 128000.0,
@@ -803,7 +803,7 @@
   {
     "nombre": "Mochila Siux Pulse",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-siux-pulse-183l9/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-siux-pulse-183l9/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 100000.0,
     "precio_final": 80000.0,
@@ -812,7 +812,7 @@
   {
     "nombre": "Bolso Head Coello Pro X Padel Duffle L",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bolso-head-coello-pro-x-padel-duffle-l-4t4a1/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/bolso-head-coello-pro-x-padel-duffle-l-4t4a1/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 372000.0,
     "precio_final": 297600.0,
@@ -821,7 +821,7 @@
   {
     "nombre": "Bolso Head Pro X Padel Duffle L",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bolso-head-pro-x-padel-duffle-l-z7fzs/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/bolso-head-pro-x-padel-duffle-l-z7fzs/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 250100.0,
     "precio_final": 200080.0,
@@ -830,7 +830,7 @@
   {
     "nombre": "Paletero Bullpadel Icon 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-icon-26-y847d/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-icon-26-y847d/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 269000.0,
     "precio_final": 215200.0,
@@ -839,7 +839,7 @@
   {
     "nombre": "Paletero Bullpadel Vertex Woman 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-woman-26-82win/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-woman-26-82win/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 250000.0,
     "precio_final": 200000.0,
@@ -848,7 +848,7 @@
   {
     "nombre": "Paletero Bullpadel Vertex 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-26-1fg6l/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-vertex-26-1fg6l/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 269000.0,
     "precio_final": 215200.0,
@@ -857,7 +857,7 @@
   {
     "nombre": "Zapatillero Adidas Bag 3.5",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/zapatillero-adidas-bag-3-5-oz3oq/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/zapatillero-adidas-bag-3-5-oz3oq/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 72200.0,
     "precio_final": 57760.0,
@@ -866,7 +866,7 @@
   {
     "nombre": "Paletero NIU Tour",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-niu-tour-bh3el/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-niu-tour-bh3el/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 180000.0,
     "precio_final": 144000.0,
@@ -875,7 +875,7 @@
   {
     "nombre": "Bolso Siux The King",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bolso-siux-the-king/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/bolso-siux-the-king/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsosiuxtheking_1-848c545489184306fc17914420568506-480-0.webp",
     "precio_origen": 139000.0,
     "precio_final": 111200.0,
@@ -884,7 +884,7 @@
   {
     "nombre": "Paletero Wilson Bela Super Tour Padel Blanco",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-wilson-bela-super-tour-padel-blanco/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-wilson-bela-super-tour-padel-blanco/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsowilsonbelasupertourpadelbco_1-e4018bf2bd33103ca117914319251574-480-0.webp",
     "precio_origen": 337000.0,
     "precio_final": 269600.0,
@@ -893,7 +893,7 @@
   {
     "nombre": "Paletero Hirostar Negro/Azul",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-hirostar-negro-azul/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-hirostar-negro-azul/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 224000.0,
     "precio_final": 179200.0,
@@ -902,7 +902,7 @@
   {
     "nombre": "Mochila IU ActiveAura Packable 20L Negro",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-iu-activeaura-packable-20l-negro/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-iu-activeaura-packable-20l-negro/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 43590.0,
     "precio_final": 34872.0,
@@ -911,7 +911,7 @@
   {
     "nombre": "Riñonera UI ActiveAura Fannypack 2L Verde",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/rinonera-ui-activeaura-fannypack-2l-verde/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/rinonera-ui-activeaura-fannypack-2l-verde/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 23390.0,
     "precio_final": 18712.0,
@@ -920,7 +920,7 @@
   {
     "nombre": "Bandolera ActiveAura City 7.2L Negro",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bandolera-activeaura-city-7-2l-negro/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/bandolera-activeaura-city-7-2l-negro/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 33900.0,
     "precio_final": 27120.0,
@@ -929,7 +929,7 @@
   {
     "nombre": "Bandolera ActiveAura City 7.2L Blanco",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bandolera-activeaura-city-7-2l-blanco/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/bandolera-activeaura-city-7-2l-blanco/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 33900.0,
     "precio_final": 27120.0,
@@ -938,7 +938,7 @@
   {
     "nombre": "Bandolera IU FreeFlow Crossbody 1.8L Verde",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bandolera-iu-freeflow-crossbody-1-8l-verde1/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/bandolera-iu-freeflow-crossbody-1-8l-verde1/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 22390.0,
     "precio_final": 17912.0,
@@ -947,7 +947,7 @@
   {
     "nombre": "Bandolera IU FreeFlow Crossbody 1.8L Blanco",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bandolera-iu-freeflow-crossbody-1-8l-blanco1/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/bandolera-iu-freeflow-crossbody-1-8l-blanco1/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 22390.0,
     "precio_final": 17912.0,
@@ -956,7 +956,7 @@
   {
     "nombre": "Mochila Sane Practice Beige",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-sane-practice-beige/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-sane-practice-beige/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 89355.0,
     "precio_final": 71484.0,
@@ -965,7 +965,7 @@
   {
     "nombre": "Mochila Sane Practice Negro",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-sane-practice-negro/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-sane-practice-negro/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 89355.0,
     "precio_final": 71484.0,
@@ -974,7 +974,7 @@
   {
     "nombre": "Mochila Sane Everyday Ruby",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-sane-everyday-ruby/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-sane-everyday-ruby/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 74865.0,
     "precio_final": 59892.0,
@@ -983,7 +983,7 @@
   {
     "nombre": "Mochila Sane Everyday Beige",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-sane-everyday-beige/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-sane-everyday-beige/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilasaneeverydaybeige_1-b1d994be259c95373c17914418436410-480-0.webp",
     "precio_origen": 74865.0,
     "precio_final": 59892.0,
@@ -992,7 +992,7 @@
   {
     "nombre": "Mochila Sane Vintage Negra",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-sane-vintage-negra/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-sane-vintage-negra/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilasanevintagenegra_1-a33fa1fd7e78c2aa2717914293188911-480-0.webp",
     "precio_origen": 60375.0,
     "precio_final": 48300.0,
@@ -1001,7 +1001,7 @@
   {
     "nombre": "Bolso Sane Pro Elegance Blanco",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bolso-sane-pro-elegance-blanco/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/bolso-sane-pro-elegance-blanco/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 190785.0,
     "precio_final": 152628.0,
@@ -1010,7 +1010,7 @@
   {
     "nombre": "Paletero Sane Pro Sport Blanco",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-sane-pro-sport-blanco/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-sane-pro-sport-blanco/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 169050.0,
     "precio_final": 135240.0,
@@ -1019,7 +1019,7 @@
   {
     "nombre": "Paletero Sane Pro Leather Ruby",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-sane-pro-leather-ruby/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-sane-pro-leather-ruby/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 149730.0,
     "precio_final": 119784.0,
@@ -1028,7 +1028,7 @@
   {
     "nombre": "Paletero Sane Pro Leather Marrón",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-sane-pro-leather-marron/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-sane-pro-leather-marron/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 149730.0,
     "precio_final": 119784.0,
@@ -1037,7 +1037,7 @@
   {
     "nombre": "Paletero Sane Glossmate",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-sane-glossmate/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-sane-glossmate/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 173500.0,
     "precio_final": 138800.0,
@@ -1046,7 +1046,7 @@
   {
     "nombre": "Mochila Varlion Ambassadors Bordo",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-varlion-ambassadors-bordo/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-varlion-ambassadors-bordo/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 215000.0,
     "precio_final": 172000.0,
@@ -1055,7 +1055,7 @@
   {
     "nombre": "Paletero Varlion Ambassadors Bordo",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-ambassadors-bordo/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-varlion-ambassadors-bordo/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 229000.0,
     "precio_final": 183200.0,
@@ -1064,7 +1064,7 @@
   {
     "nombre": "Paletero Head Pro Padel Marino",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-head-pro-padel-marino/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-head-pro-padel-marino/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 295000.0,
     "precio_final": 236000.0,
@@ -1073,7 +1073,7 @@
   {
     "nombre": "Riñonera Asics Waist Pouch Light Performance",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/rinonera-asics-waist-pouch-light-performance/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/rinonera-asics-waist-pouch-light-performance/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 64900.0,
     "precio_final": 51920.0,
@@ -1082,7 +1082,7 @@
   {
     "nombre": "Riñonera Asics Waist Pouch Performance",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/rinonera-asics-waist-pouch-performance/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/rinonera-asics-waist-pouch-performance/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 64900.0,
     "precio_final": 51920.0,
@@ -1091,7 +1091,7 @@
   {
     "nombre": "Bolso Head Duffle Verde Oliva",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bolso-head-duffle-verde-oliva/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/bolso-head-duffle-verde-oliva/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoheadduffleverdeoliva_1-99cfd0e5b31a5dea2617914310824840-480-0.webp",
     "precio_origen": 226200.0,
     "precio_final": 180960.0,
@@ -1100,7 +1100,7 @@
   {
     "nombre": "Mochila Dropshot NAOS Azul",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-dropshot-naos-azul/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-dropshot-naos-azul/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochiladropshotnaosazul_1-99007c80345936628a17914288456337-480-0.webp",
     "precio_origen": 116800.0,
     "precio_final": 93440.0,
@@ -1109,7 +1109,7 @@
   {
     "nombre": "Paletero Dropshot NAOS Rojo",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-naos-rojo/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-naos-rojo/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 144000.0,
     "precio_final": 115200.0,
@@ -1118,7 +1118,7 @@
   {
     "nombre": "Paletero Dropshot NAOS Azul",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-naos-azul/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-naos-azul/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 144000.0,
     "precio_final": 115200.0,
@@ -1127,7 +1127,7 @@
   {
     "nombre": "Paletero Dropshot Be Unique Gris",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-be-unique-gris/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-be-unique-gris/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 188800.0,
     "precio_final": 151040.0,
@@ -1136,7 +1136,7 @@
   {
     "nombre": "Paletero Dropshot Bentor Lima",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-bentor-lima/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-dropshot-bentor-lima/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 236400.0,
     "precio_final": 189120.0,
@@ -1145,7 +1145,7 @@
   {
     "nombre": "Mochila Adidas Padel Club Lima",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-adidas-padel-club-lima/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-adidas-padel-club-lima/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 69200.0,
     "precio_final": 55360.0,
@@ -1154,7 +1154,7 @@
   {
     "nombre": "Mochila Adidas Multigame 3.2 Azul",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-adidas-multigame-3-2-azul/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-adidas-multigame-3-2-azul/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 144600.0,
     "precio_final": 115680.0,
@@ -1163,7 +1163,7 @@
   {
     "nombre": "Funda Varlion Basic",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/funda-varlion-basic/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/funda-varlion-basic/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 15900.0,
     "precio_final": 12720.0,
@@ -1172,7 +1172,7 @@
   {
     "nombre": "Mochila Bullpadel Advance 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-advance-26-12jy6/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-advance-26-12jy6/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 119000.0,
     "precio_final": 95200.0,
@@ -1181,7 +1181,7 @@
   {
     "nombre": "Paletero Nox Open Series Rojo",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-nox-open-series-rojo/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-nox-open-series-rojo/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 274890.0,
     "precio_final": 219912.0,
@@ -1190,7 +1190,7 @@
   {
     "nombre": "Mochila Joma Team",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-joma-team-cd0j4/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-joma-team-cd0j4/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 50900.0,
     "precio_final": 40720.0,
@@ -1199,7 +1199,7 @@
   {
     "nombre": "Paletero Bullpadel Advance 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-advance-26-1kqg5/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-advance-26-1kqg5/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadeladvance26_1_ngo2fvde-1ed5176d70fb1d175e17914298569348-480-0.webp",
     "precio_origen": 169000.0,
     "precio_final": 135200.0,
@@ -1208,7 +1208,7 @@
   {
     "nombre": "Mochila Bullpadel Vertex Geo Premier 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-vertex-geo-premier-26-8cxyl/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-vertex-geo-premier-26-8cxyl/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilabullpadelvertexgeopremier26_1_negro-9e69d2e86501159b6317914508689864-480-0.webp",
     "precio_origen": 189000.0,
     "precio_final": 151200.0,
@@ -1217,7 +1217,7 @@
   {
     "nombre": "Mochila Bullpadel Vertex Woman 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-vertex-woman-26-6hhtm/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-vertex-woman-26-6hhtm/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 190000.0,
     "precio_final": 152000.0,
@@ -1226,7 +1226,7 @@
   {
     "nombre": "Mochila Bullpadel Vertex Geo 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-vertex-geo-26-jx5d9/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-vertex-geo-26-jx5d9/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 190000.0,
     "precio_final": 152000.0,
@@ -1235,7 +1235,7 @@
   {
     "nombre": "Paletero Bullpadel Wonder 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-wonder-26-v1rxr/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-wonder-26-v1rxr/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 220000.0,
     "precio_final": 176000.0,
@@ -1244,7 +1244,7 @@
   {
     "nombre": "Mochila Bullpadel Xplo 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-xplo-26-1pr1p/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-xplo-26-1pr1p/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 199000.0,
     "precio_final": 159200.0,
@@ -1253,7 +1253,7 @@
   {
     "nombre": "Paletero Bullpadel Hack Petroleo",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-hack-petroleo/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-hack-petroleo/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 261155.0,
     "precio_final": 208924.0,
@@ -1262,7 +1262,7 @@
   {
     "nombre": "Mochila Wilson Bela Padel Negro",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-wilson-bela-padel-negro/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-wilson-bela-padel-negro/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 183000.0,
     "precio_final": 146400.0,
@@ -1271,7 +1271,7 @@
   {
     "nombre": "Mochila Bullpadel Hack 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-hack-26-8tjmw/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-hack-26-8tjmw/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 199000.0,
     "precio_final": 159200.0,
@@ -1280,7 +1280,7 @@
   {
     "nombre": "Mochila Adidas Multigame 3.2 Anthracite",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-adidas-multigame-3-2-anthracite/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-adidas-multigame-3-2-anthracite/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 144600.0,
     "precio_final": 115680.0,
@@ -1289,7 +1289,7 @@
   {
     "nombre": "Paletero Adidas Promatch",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-adidas-promatch-8jxtw/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-adidas-promatch-8jxtw/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 235500.0,
     "precio_final": 188400.0,
@@ -1298,7 +1298,7 @@
   {
     "nombre": "Paletero Siux Edge",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-siux-edge-777f1/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/paletero-siux-edge-777f1/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 210000.0,
     "precio_final": 168000.0,
@@ -1307,7 +1307,7 @@
   {
     "nombre": "Mochila Bullpadel Vertex 26",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-vertex-26-1afkg/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-vertex-26-1afkg/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilabullpadelvertex26_1_negro-c5fd8a714e4e5834d317914477137203-480-0.webp",
     "precio_origen": 190000.0,
     "precio_final": 152000.0,
@@ -1316,7 +1316,7 @@
   {
     "nombre": "Mochila Adidas Multigame 3.2 Rojo",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/mochila-adidas-multigame-3-2-rojo/?entry_path=category",
+    "url": "https://www.metapadel.com.ar/productos/mochila-adidas-multigame-3-2-rojo/?entry_path=category&entry_category_id=20865461",
     "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/1391ed6293a2e6aac914301689263154311710241024-c7926c34d29de3a9fd17914307935049-480-0.webp",
     "precio_origen": 144600.0,
     "precio_final": 115680.0,
