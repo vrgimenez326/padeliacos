@@ -12,7 +12,7 @@
     "nombre": "Paletero Bullpadel Tour 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-tour-26-ziq7o/?entry_path=category&entry_category_id=20865461",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadeltour26_11_amafluo-e96460ac3184dca1de17925041503897-480-0.webp",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadeltour26_1_negro-ff47004f8b80f6769917950151536254-480-0.webp",
     "precio_origen": 125000.0,
     "precio_final": 100000.0,
     "en_stock": true
@@ -237,7 +237,7 @@
     "nombre": "Paletero Bullpadel Advance 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-advance-26-1kqg5/?entry_path=category&entry_category_id=20865461",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadeladvance26_1_ngo2fvde-1ed5176d70fb1d175e17914298569348-480-0.webp",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadeladvance26_7_azulmno-425b6e0588841e5f7f17950152461062-480-0.webp",
     "precio_origen": 169000.0,
     "precio_final": 135200.0,
     "en_stock": true
@@ -324,19 +324,10 @@
     "en_stock": true
   },
   {
-    "nombre": "Neceser Adidas Martita Ortega 3.5",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/neceser-adidas-martita-ortega-3-5-48kc3/?entry_path=category&entry_category_id=20865461",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 66500.0,
-    "precio_final": 53200.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Paletero Varlion Summum Pro Cobre",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-pro-cobre/?entry_path=category&entry_category_id=20865461",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/paleterovarlionsummumprocobre_8-27470ba5b1fe73c05f17914366019500-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 170000.0,
     "precio_final": 136000.0,
     "en_stock": true
@@ -354,9 +345,18 @@
     "nombre": "Mochila Bullpadel Tech 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-bullpadel-tech-26-rzltw/?entry_path=category&entry_category_id=20865461",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilabullpadeltech26_1_negro-5dc6a517f9ca2aa2e217914431214029-480-0.webp",
     "precio_origen": 240000.0,
     "precio_final": 192000.0,
+    "en_stock": true
+  },
+  {
+    "nombre": "Paletero Bullpadel Casual 26",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-casual-26-rt8i8/?entry_path=category&entry_category_id=20865461",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 199000.0,
+    "precio_final": 159200.0,
     "en_stock": true
   },
   {
@@ -1239,6 +1239,15 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 199000.0,
     "precio_final": 159200.0,
+    "en_stock": false
+  },
+  {
+    "nombre": "Neceser Adidas Martita Ortega 3.5",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/neceser-adidas-martita-ortega-3-5-48kc3/?entry_path=category&entry_category_id=20865461",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 66500.0,
+    "precio_final": 53200.0,
     "en_stock": false
   },
   {
