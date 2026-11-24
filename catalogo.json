@@ -90,21 +90,21 @@
     "en_stock": true
   },
   {
+    "nombre": "Bolso Varlion Ambassadors Retro",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/bolso-varlion-ambassadors-retro-176t0/?entry_path=category&entry_category_id=20865461",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 171700.0,
+    "precio_final": 137360.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Bolso Adidas Weekend 3.5",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/bolso-adidas-weekend-3-5-ibi3w/?entry_path=category&entry_category_id=20865461",
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 235000.0,
     "precio_final": 188000.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paletero Babolat RH4 Juan Lebron",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-babolat-rh4-juan-lebron/?entry_path=category&entry_category_id=20865461",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 250000.0,
-    "precio_final": 200000.0,
     "en_stock": true
   },
   {
@@ -117,12 +117,12 @@
     "en_stock": true
   },
   {
-    "nombre": "Bolso Varlion Ambassadors Retro",
+    "nombre": "Paletero Babolat RH4 Juan Lebron",
     "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/bolso-varlion-ambassadors-retro-176t0/?entry_path=category&entry_category_id=20865461",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsovarlionambassadorsretrow_8_negro-5bd5d52af2476f0dbb17914486177561-480-0.webp",
-    "precio_origen": 171700.0,
-    "precio_final": 137360.0,
+    "url": "https://www.metapadel.com.ar/productos/paletero-babolat-rh4-juan-lebron/?entry_path=category&entry_category_id=20865461",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobabolatrhjuanlebronngo2frjo_1-51ccd18476d914516817914382230976-480-0.webp",
+    "precio_origen": 250000.0,
+    "precio_final": 200000.0,
     "en_stock": true
   },
   {
