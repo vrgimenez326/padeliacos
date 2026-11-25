@@ -54,15 +54,6 @@
     "en_stock": true
   },
   {
-    "nombre": "Paletero Adidas Multigame 3.5",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-adidas-multigame-3-5-oe7nd/?entry_path=category&entry_category_id=20865461",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 289500.0,
-    "precio_final": 231600.0,
-    "en_stock": true
-  },
-  {
     "nombre": "Mochila Adidas Protour 3.5",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-adidas-protour-3-5-r7yxm/?entry_path=category&entry_category_id=20865461",
@@ -108,21 +99,21 @@
     "en_stock": true
   },
   {
+    "nombre": "Paletero Babolat RH4 Juan Lebron",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-babolat-rh4-juan-lebron/?entry_path=category&entry_category_id=20865461",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 250000.0,
+    "precio_final": 200000.0,
+    "en_stock": true
+  },
+  {
     "nombre": "ver otros acá",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/",
     "imagen": "",
     "precio_origen": 299000.0,
     "precio_final": 239200.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Paletero Babolat RH4 Juan Lebron",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/paletero-babolat-rh4-juan-lebron/?entry_path=category&entry_category_id=20865461",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobabolatrhjuanlebronngo2frjo_1-51ccd18476d914516817914382230976-480-0.webp",
-    "precio_origen": 250000.0,
-    "precio_final": 200000.0,
     "en_stock": true
   },
   {
@@ -138,7 +129,7 @@
     "nombre": "Paletero Varlion Summum Cobre",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-cobre/?entry_path=category&entry_category_id=20865461",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/1f12849d257b93ded9b169904789703951cc22bed920db88f14d1699047914515610241024-b6353c6ef89da8279417914284063215-480-0.webp",
     "precio_origen": 120000.0,
     "precio_final": 96000.0,
     "en_stock": true
@@ -228,7 +219,7 @@
     "nombre": "Paletero Varlion Ambassadors Mike Yanguas",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-varlion-ambassadors-mike-yanguas/?entry_path=category&entry_category_id=20865461",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/1cf47d12aeb047c10e216990466906525184bcf8eebafd382a2f1699046893561410241024-8d18826c2629e7ac9c17914339210473-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 229000.0,
     "precio_final": 183200.0,
     "en_stock": true
@@ -246,7 +237,7 @@
     "nombre": "Paletero Varlion Summum Violeta",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-varlion-summum-violeta/?entry_path=category&entry_category_id=20865461",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/1b2d8d85f6775ca5c091699048018151110241024-28fbedc035f24a121717914328300734-480-0.webp",
     "precio_origen": 150000.0,
     "precio_final": 120000.0,
     "en_stock": true
@@ -336,7 +327,7 @@
     "nombre": "Paletero Adidas Tour 3.5",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-adidas-tour-3-5-kkn7j/?entry_path=category&entry_category_id=20865461",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoadidastour3-5_2_plata-d95a0f25c04e2d3f3617914376513421-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 235000.0,
     "precio_final": 188000.0,
     "en_stock": true
@@ -354,7 +345,7 @@
     "nombre": "Paletero Siux Pro Tour",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-siux-pro-tour/?entry_path=category&entry_category_id=20865461",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsopaleterosiuxprotour_9_azul-5c1dd55fe8123154ea17919087442591-480-0.webp",
     "precio_origen": 230000.0,
     "precio_final": 184000.0,
     "en_stock": true
@@ -444,7 +435,7 @@
     "nombre": "Paletero Head Pro X Padel L",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-head-pro-x-padel-l-ulov1/?entry_path=category&entry_category_id=20865461",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoheadproxpadell_1_negro-f1633672a9b22b763517914457764999-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 339300.0,
     "precio_final": 271440.0,
     "en_stock": true
@@ -462,7 +453,7 @@
     "nombre": "Paletero Bullpadel Neuron Premier 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-neuron-premier-26-159lm/?entry_path=category&entry_category_id=20865461",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadelneuronpremier26_1_negro-b87c2ab77a570abb6b17914517690108-480-0.webp",
     "precio_origen": 260000.0,
     "precio_final": 208000.0,
     "en_stock": true
@@ -552,7 +543,7 @@
     "nombre": "Mochila Sane Practice Blanco",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-sane-practice-blanco/?entry_path=category&entry_category_id=20865461",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilasanepracticeblanca_1-33b3cfb30f933d5b0617914419352625-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 89355.0,
     "precio_final": 71484.0,
     "en_stock": true
@@ -570,7 +561,7 @@
     "nombre": "Paletero Varlion Ambassadors Marron",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-varlion-ambassadors-marron/?entry_path=category&entry_category_id=20865461",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsovarlionambassadorsmarron_1-d9d056f379366374d317914535612420-480-0.webp",
     "precio_origen": 229000.0,
     "precio_final": 183200.0,
     "en_stock": true
@@ -660,7 +651,7 @@
     "nombre": "Bolso Adidas Promatch",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/bolso-adidas-promatch-zq388/?entry_path=category&entry_category_id=20865461",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoadidaspromatcharisanchez_1-4d3e2e71ba8a0c578e17933184735400-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 178500.0,
     "precio_final": 142800.0,
     "en_stock": true
@@ -678,7 +669,7 @@
     "nombre": "Neceser Bullpadel Elite",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/neceser-bullpadel-elite-w6rbn/?entry_path=category&entry_category_id=20865461",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/neceserbullpadelelitebpn26019bco_2-aa15f0e8d710886ee317914532194536-480-0.webp",
     "precio_origen": 49000.0,
     "precio_final": 39200.0,
     "en_stock": true
@@ -768,7 +759,7 @@
     "nombre": "Bolso Head Coello Pro X Padel Duffle L",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/bolso-head-coello-pro-x-padel-duffle-l-4t4a1/?entry_path=category&entry_category_id=20865461",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoheadcoelloproxpadeldufflel_1_ngo2fbco-5ac65ef0475b063c2517914458509257-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 372000.0,
     "precio_final": 297600.0,
     "en_stock": true
@@ -786,7 +777,7 @@
     "nombre": "Paletero Bullpadel Icon 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-icon-26-y847d/?entry_path=category&entry_category_id=20865461",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadelicon26_1_vde-6b24b67f2d00c670c517914520322499-480-0.webp",
     "precio_origen": 269000.0,
     "precio_final": 215200.0,
     "en_stock": true
@@ -876,7 +867,7 @@
     "nombre": "Bandolera ActiveAura City 7.2L Blanco",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/bandolera-activeaura-city-7-2l-blanco/?entry_path=category&entry_category_id=20865461",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bandoleraactiveauracity7-2lbco_1-3015ea3dec5aa1cb4617914454426701-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 33900.0,
     "precio_final": 27120.0,
     "en_stock": true
@@ -894,7 +885,7 @@
     "nombre": "Bandolera IU FreeFlow Crossbody 1.8L Blanco",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/bandolera-iu-freeflow-crossbody-1-8l-blanco1/?entry_path=category&entry_category_id=20865461",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bandoleraiufreeflowcrossbody1-8lbco_1-f4468c87cc7a17aa1817914375979769-480-0.webp",
     "precio_origen": 22390.0,
     "precio_final": 17912.0,
     "en_stock": true
@@ -984,7 +975,7 @@
     "nombre": "Paletero Sane Glossmate",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-sane-glossmate/?entry_path=category&entry_category_id=20865461",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsosaneglossmateazul_1-abfd6272cada4639ea17914356687207-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 173500.0,
     "precio_final": 138800.0,
     "en_stock": true
@@ -1002,7 +993,7 @@
     "nombre": "Paletero Varlion Ambassadors Bordo",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-varlion-ambassadors-bordo/?entry_path=category&entry_category_id=20865461",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsovarlionambassadorsbordo_1-c3e79b4a5506d60cd917914406432119-480-0.webp",
     "precio_origen": 229000.0,
     "precio_final": 183200.0,
     "en_stock": true
@@ -1092,7 +1083,7 @@
     "nombre": "Mochila Adidas Padel Club Lima",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-adidas-padel-club-lima/?entry_path=category&entry_category_id=20865461",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/1501b69419a644e3a7adaa1689281561560710241024-d5e3857376b29443db17914286862763-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 69200.0,
     "precio_final": 55360.0,
     "en_stock": true
@@ -1110,9 +1101,18 @@
     "nombre": "Funda Varlion Basic",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/funda-varlion-basic/?entry_path=category&entry_category_id=20865461",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/128fbdc75f7459393011699301896481210241024-0735d551ff5c7cc32d17914365655669-480-0.webp",
     "precio_origen": 15900.0,
     "precio_final": 12720.0,
+    "en_stock": false
+  },
+  {
+    "nombre": "Paletero Adidas Multigame 3.5",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/paletero-adidas-multigame-3-5-oe7nd/?entry_path=category&entry_category_id=20865461",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 289500.0,
+    "precio_final": 231600.0,
     "en_stock": false
   },
   {
