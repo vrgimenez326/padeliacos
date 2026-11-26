@@ -486,6 +486,15 @@
     "en_stock": true
   },
   {
+    "nombre": "Zapatillero Adidas Bag 3.5",
+    "categoria": "bolsos",
+    "url": "https://www.metapadel.com.ar/productos/zapatillero-adidas-bag-3-5-oz3oq/?entry_path=category&entry_category_id=20865461",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "precio_origen": 72200.0,
+    "precio_final": 57760.0,
+    "en_stock": true
+  },
+  {
     "nombre": "Monedero Adidas Negro 3.5",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/monedero-adidas-negro-3-5-du758/?entry_path=category&entry_category_id=20865461",
@@ -543,7 +552,7 @@
     "nombre": "Paletero Wilson Padel Tour Rojo 25",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-wilson-padel-tour-rojo-25/?entry_path=category&entry_category_id=20865461",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsowilsonpadeltourrjo25_1-b98df2c6221a9a7b7217914455655271-480-0.webp",
     "precio_origen": 243999.0,
     "precio_final": 195199.2,
     "en_stock": true
@@ -561,7 +570,7 @@
     "nombre": "Mochila Sane Vintage Blanca",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/mochila-sane-vintage-blanca/?entry_path=category&entry_category_id=20865461",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/mochilasanevintageblanca_1-c6112922eb4f5876b317914293184332-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 60375.0,
     "precio_final": 48300.0,
     "en_stock": true
@@ -651,7 +660,7 @@
     "nombre": "Bolso Adidas Promatch",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/bolso-adidas-promatch-zq388/?entry_path=category&entry_category_id=20865461",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoadidaspromatcharisanchez_1-4d3e2e71ba8a0c578e17933184735400-480-0.webp",
     "precio_origen": 178500.0,
     "precio_final": 142800.0,
     "en_stock": true
@@ -669,7 +678,7 @@
     "nombre": "Neceser Bullpadel Elite",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/neceser-bullpadel-elite-w6rbn/?entry_path=category&entry_category_id=20865461",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/neceserbullpadelelitebpn26019bco_2-aa15f0e8d710886ee317914532194536-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 49000.0,
     "precio_final": 39200.0,
     "en_stock": true
@@ -759,7 +768,7 @@
     "nombre": "Bolso Head Coello Pro X Padel Duffle L",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/bolso-head-coello-pro-x-padel-duffle-l-4t4a1/?entry_path=category&entry_category_id=20865461",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsoheadcoelloproxpadeldufflel_1_ngo2fbco-5ac65ef0475b063c2517914458509257-480-0.webp",
     "precio_origen": 372000.0,
     "precio_final": 297600.0,
     "en_stock": true
@@ -777,7 +786,7 @@
     "nombre": "Paletero Bullpadel Icon 26",
     "categoria": "bolsos",
     "url": "https://www.metapadel.com.ar/productos/paletero-bullpadel-icon-26-y847d/?entry_path=category&entry_category_id=20865461",
-    "imagen": "https://acdn-us.mitiendanube.com/stores/003/106/548/products/bolsobullpadelicon26_1_vde-6b24b67f2d00c670c517914520322499-480-0.webp",
+    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 269000.0,
     "precio_final": 215200.0,
     "en_stock": true
@@ -798,15 +807,6 @@
     "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
     "precio_origen": 269000.0,
     "precio_final": 215200.0,
-    "en_stock": true
-  },
-  {
-    "nombre": "Zapatillero Adidas Bag 3.5",
-    "categoria": "bolsos",
-    "url": "https://www.metapadel.com.ar/productos/zapatillero-adidas-bag-3-5-oz3oq/?entry_path=category&entry_category_id=20865461",
-    "imagen": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "precio_origen": 72200.0,
-    "precio_final": 57760.0,
     "en_stock": true
   },
   {
